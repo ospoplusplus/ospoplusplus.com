@@ -1,0 +1,79 @@
+# Site wide configuration
+
+title: OSPO++
+locale: en_US
+description: "The OSPO++ Network" #TODO
+logo: favicon.png #TODO
+wordless_logo: favicon.png
+social_logo: logo-icon.png
+search: false
+author: "Richard Litauer" #TODO
+url: https://ospoplusplus.com
+github: https://github.com/RichardLitt/ospoplusplus.com
+# Site owner
+owner:
+  name: Richard Littauer
+  email: #TODO
+  disqus-shortname: #
+  twitter: #
+  facebook: #username
+  github: #
+  stackexchange: #
+  linkedin: #username
+  instagram: #
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    # analytics: UA-4124866-45 TODO
+    verify: # TODO
+    ad-client:
+    ad-slot:
+  bing-verify:
+
+# Jekyll configuration
+
+permalink:   /blog/:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-twitter-plugin
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+minify_html: false
+
+pagination:
+  enabled: false
+  per_page: 10
+  permalink: 'blog/:num/'
+  sort_reverse: true
+  sort_field: 'created_at'
+  trail:
+    before: 2
+    after: 2
+
+autopages:
+  enabled: false
+  categories:
+    layouts:
+      - 'category.html'
+    title: 'Posts in :cat'
+    permalink: '/blog/:cat'
+    enabled: true
+
+include: []
+# Excluding most of the usual suspects
+exclude: ["_site", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "gulpfile.js", "package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "theme-setup"]
