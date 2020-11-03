@@ -7,13 +7,13 @@ logo: favicon.png #TODO
 wordless_logo: favicon.png
 social_logo: logo-icon.png
 search: false
-author: "Richard Litauer" #TODO
+author: "MOSS Labs" #TODO
 url: https://ospoplusplus.com
 github: https://github.com/RichardLitt/ospoplusplus.com
 # Site owner
 owner:
-  name: Richard Littauer
-  email: #TODO
+  name: MOSS Labs
+  email: contact@ospoplusplus.com
   disqus-shortname: #
   twitter: #
   facebook: #username
