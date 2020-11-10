@@ -1,5 +1,6 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
-@import "./fontawesome-free/scss/fontawesome";
+@import "fontawesome/fontawesome.scss";
+@import "fontawesome/solid.scss";
 @import "mixins";
 @import "custom";
 @import "nav";
