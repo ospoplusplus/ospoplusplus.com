@@ -1,5 +1,21 @@
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 400;
+  font-display: $fa-font-display;
+  src: url('../../assets/fonts/Aileron-Regular.otf');
+}
+@font-face {
+  font-family: 'Aileron-Black';
+  font-style: normal;
+  font-weight: 600;
+  font-display: $fa-font-display;
+  src: url('../../assets/fonts/Aileron-Black.otf');
+}
+
+
 // TYPOGRAPHY ================================================
-$base-font                : 'source-sans-pro', sans-serif;
+$base-font                : 'Aileron', sans-serif;
 $heading-font             : $base-font;
 $caption-font             : $base-font;
 $code-font                : 'source-code-pro', monospace;
@@ -10,15 +26,11 @@ $doc-line-height          : 24;
 
 $border-radius            : 3px;
 
-
 // set-up the body font-size / line-height
 body {
   margin-top: 0px + $doc-line-height;
   font-size: 0px + $doc-font-size;
 }
-
-$fa-font-path:        "../webfonts";
-
 
 // COLORS =====================================================
 $body-color               : #fff;
@@ -46,3 +58,7 @@ $small                    : "only screen and (min-width: 37.5em)";
 $medium                   : "only screen and (min-width: 48em)";
 $large                    : "only screen and (min-width: 62em)";
 $x-large                  : "only screen and (min-width: 86.375em)";
+
+// Footer
+
+$footer-height            : 40px;

@@ -1,3 +1,47 @@
-img.zeal {
-  margin-bottom: 50px;
+$white: #B6B8BA;
+$black: #000;
+$blue: #2E3192;
+$purple: #762b90;
+$lavender: #Af1f8e;
+$pink: #Ec008c;
+
+html {
+  background: linear-gradient(45deg, blue, pink) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  font-family: 'Aileron';
+  background: none;
+  margin-bottom: $footer-height;
+}
+
+#content {
+  margin-top: 20%;
+}
+
+.logo {
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
+h1 {
+  font-family: 'Aileron-Black';
+  line-height: 200px;
+  font-size: 140px;
+}
+
+p {
+  font-size: 1.6em;
+}
+
+@include media-breakpoint-down(sm) {
+  $footer-height: 20px;
+  h1 {
+    font-size: 80px;
+  }
 }
