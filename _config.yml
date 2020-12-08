@@ -26,7 +26,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    # analytics: UA-4124866-45 TODO
+    analytics: G-HW8T0YSBYP
     verify: # TODO
     ad-client:
     ad-slot:
