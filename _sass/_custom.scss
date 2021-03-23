@@ -5,7 +5,16 @@ $purple: #762b90;
 $lavender: #Af1f8e;
 $pink: #Ec008c;
 
-html {
+
+body {
+  font-family: 'Aileron';
+  background: none;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+
+.color {
   background: linear-gradient(45deg, blue, pink) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -13,14 +22,18 @@ html {
   background-size: cover;
 }
 
-body {
-  font-family: 'Aileron';
-  background: none;
-  margin-bottom: $footer-height;
+.logos {
+  background-color: white;
+  // background: linear-gradient(55deg, pink, white) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #content {
-  margin-top: 20%;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 
 .logo {
@@ -39,6 +52,11 @@ p {
   font-size: 1.6em;
 }
 
+.navigation-wrapper {
+  background-color: #212529;
+  height: 30px;
+}
+
 @include media-breakpoint-down(sm) {
   $footer-height: 20px;
   h1 {
@@ -52,7 +70,20 @@ a {
 
 .footer-wrapper {
   color: #000;
+  position: relative;
+  padding-top: 20px;
+  height: 60px;
+  margin-bottom: 0px;
+  .social-icons {
+    margin-bottom: 0px !important;
+  }
   a {
     color: #000;
+  }
+}
+
+.logos {
+  img {
+    width: 100%;
   }
 }

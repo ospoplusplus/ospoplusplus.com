@@ -1,4 +1,5 @@
 <div class="navigation-wrapper">
+	{% if false %}
 	<nav role="navigation" id="site-nav" >
 	    <ul>
       {% for link in site.data.navigation %}
@@ -11,11 +12,9 @@
 		  {% endfor %}
 	    </ul>
 	</nav>
+	{% endif %}
 </div><!-- /.navigation-wrapper -->
 
 {% include browser-upgrade.html %}
-
-{% include masthead.html %}
-
 
 <div class="js-menu-screen menu-screen"></div>
