@@ -1,0 +1,17 @@
+
+{% if page.image.feature %}<header class="masthead">
+	{% if site.logo != null %}
+		<div class="wrap">
+			<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo"></a>
+		</div>
+	{% endif %}
+</header><!-- /.masthead -->
+{% else %}
+<header class="masthead">
+	<div class="wrap">
+      {% if site.logo != null %}
+  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo"></a>
+      {% endif %}
+	</div>
+</header><!-- /.masthead -->
+{% endif %}
