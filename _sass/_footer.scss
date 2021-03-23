@@ -8,10 +8,8 @@
   width: 100%;
   height: $footer-height;
   line-height: 80px;
-  // margin: 2em auto;
   text-align: center;
   @include font-size(14);
-  font-style: italic;
   color: lighten($text-color,20);
 
   a {

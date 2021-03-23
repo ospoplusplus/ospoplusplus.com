@@ -1,7 +1,6 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
-@import "fontawesome/fontawesome.scss";
-@import "fontawesome/brands.scss";
-@import "fontawesome/solid.scss";
+@import "./fontawesome/scss/fontawesome.scss";
+@import "./fontawesome/scss/regular.scss";
 @import "variables";
 @import "mixins";
 @import "footer";
