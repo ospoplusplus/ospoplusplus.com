@@ -63,7 +63,6 @@ How So Simple is organized and what the various files are. All posts, layouts, i
 so-simple-theme/
 ├── _includes/
 |    ├── browser-upgrade.html    # prompt to install a modern browser for < IE9
-|    ├── disqus-comments.html    # Disqus comments script
 |    ├── feed-footer.html        # post footers in feed
 |    ├── footer.html             # site footer
 |    ├── head.html               # site head
@@ -158,7 +157,7 @@ Explanations of the various `_layouts` included with the theme and when to use t
 
 ### Post and Page
 
-These two layouts are very similar. Both have an author sidebar, allow for large feature images at the top, and optional Disqus comments. The only real difference is the post layout includes related posts at the end of the page.
+These two layouts are very similar. Both have an author sidebar, allow for large feature images at the top. The only real difference is the post layout includes related posts at the end of the page.
 
 ### Categories
 
@@ -257,26 +256,6 @@ share: true
 ```
 
 Share links appear below author details in the sidebar.
-
----
-
-## Disqus Comments
-
-To enable comments [signup for a Disqus account](https://disqus.com/admin/signup/?utm_source=New-Site) and create a shortname for your site. Then add it to your `_config.yml` under the site owner section like so:
-
-```yaml
-site:
-  owner:
-    disqus-shortname: shortname
-```
-
-If you would like comments to appear on every post or page that uses the `post.html` layout simply add the following line to your `_config.yml` and you're done.
-
-```yaml
-comments: true
-```
-
-To be more selective and granualar with which posts and pages Disqus comments appear on, add `comments: true` to the YAML Front Matter of each post or page instead.
 
 ---
 
