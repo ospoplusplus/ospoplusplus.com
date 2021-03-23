@@ -33,7 +33,7 @@ owner:
 
 # Jekyll configuration
 
-permalink:   /blog/:categories/:title/
+permalink:   /blog/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
