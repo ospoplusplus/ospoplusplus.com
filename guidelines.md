@@ -17,7 +17,6 @@ excerpt: "Recommendations before open sourcing at your University"
   - What does EOL look like
   - Will it have continuous support?
 - What resources are available to manage this code?
-
 - What are the primary reasons for open sourcing?
   - Tech transfer
   - Reproducibility

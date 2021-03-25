@@ -53,6 +53,9 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  img {
+    padding: 15px;
+  }
 }
 
 #content {
