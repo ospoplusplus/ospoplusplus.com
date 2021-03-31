@@ -84,13 +84,6 @@ p {
   height: 30px;
 }
 
-@include media-breakpoint-down(sm) {
-  $footer-height: 20px;
-  h1 {
-    font-size: 80px;
-  }
-}
-
 a {
    color: #fff;
 }
@@ -148,5 +141,24 @@ a {
 #site-nav {
   a {
     color: white;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  $footer-height: 20px;
+  h1 {
+    font-size: 80px;
+  }
+  #post {
+    p {
+      font-size: 1em;
+    }
+  }
+  .navigation-wrapper {
+    height: 50px;
+    a {
+      font-size: 20px;
+      line-height: 50px;
+    }
   }
 }
