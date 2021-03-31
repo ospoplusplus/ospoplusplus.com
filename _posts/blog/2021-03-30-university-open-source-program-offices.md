@@ -2,10 +2,8 @@
 layout: post
 title: "University Open Source Program Offices"
 author: "schoudhury"
-avatar: schoudhury.png
-category: post
 tags: []
-date: 2021-03-22-20-18
+date: 2021-03-30-23-32
 ---
 
 The Sheridan Libraries at Johns Hopkins University (JHU) have launched the first US university-based open source programs office (OSPO). The JHU OSPO represents a foundational effort to develop a model for universities to engage more effectively with the open source community and to foster greater social impact through partnerships with individuals, community centers, companies, and government. Furthermore, it represents the framework from which universities can build upon the university pillars of research, education, and translation, especially as it relates to social impact. The JHU OSPO is working with other key players in the university context such as the Provost’s office, research administration, academic departments and institutes, and technology transfer. This piece outlines the important, unique role the OSPO can play in the broader university landscape.
@@ -45,5 +43,7 @@ One related point in this context is the institutional home for a university OSP
 Regardless of the arrangement within a university, the OSPO represents a powerful new pathway for translation. The City of Paris and the JHU OSPO have partnered under the auspices of the open source license for Lutèce. If both groups had to secure a grant or sign a memorandum of understanding, it is certain that the administrative handshake would take considerable effort and time. Another case of new translation involves an open source software at JHU (Public Access Submission System or PASS) and the Eclipse Foundation. The JHU OSPO led the effort to become Eclipse Foundation members to explore the possibility of offering PASS as an official Eclipse Foundation product. In addition, multiple researchers at JHU have expressed their interest in joining Eclipse Foundation working groups to advance their research interests. 
 
 Perhaps most importantly, 2020 has been a challenging year on so many fronts ranging from the pandemic to racial injustice to economic duress. Universities are rightly being called upon to make direct, substantive impact on addressing these and other challenges. While the OSPO features an important operational role, its greatest potential in a university setting relates to its central role in a growing set of partnerships related to the open source way as a means to address the biggest challenges of our time.
+
+_{{ site.data.authors[page.author].bio }}_
 
 _Acknowledgements: Many people have offered invaluable advice and support to the JHU OSPO but it is important to note the role of MossLabs in particular. The JHU OSPO journey began with a seemingly innocent conversation with Jacob Green of MossLabs and has bloomed in amazing ways. It was Jacob’s inspiration to launch an OSPO at JHU._
