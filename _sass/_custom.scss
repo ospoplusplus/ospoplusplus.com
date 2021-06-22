@@ -137,12 +137,15 @@ a {
   .entry-content {
     margin-bottom: 5em;
   }
+  img {
+    max-width: 100%;
+  }
 }
 
 .bio-photo {
   border-radius: 50%;
   background: #BADA55;
-  height: 50px;
+  height: 100px;
   margin-bottom: 20px;
 }
 
