@@ -81,7 +81,12 @@ p {
 
 .navigation-wrapper {
   background-color: #212529;
-  height: 30px;
+  height: 50px;
+  nav ul {
+    padding-top: 10px;
+    padding-left: 0px;
+    list-style: none;
+  }
 }
 
 a {
@@ -158,7 +163,6 @@ a {
     height: 50px;
     a {
       font-size: 20px;
-      line-height: 50px;
     }
   }
 }

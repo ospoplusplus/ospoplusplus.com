@@ -1,23 +1,25 @@
-{% unless page.layout == "home" %}
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" >
-    <!-- <ul> -->
-    {% for link in site.data.navigation %}
-	    {% if link.url contains 'http' %}
-	        {% assign domain = '' %}
-	        {% else %}
-	        {% assign domain = site.url %}
-	    {% endif %}
-			<center>
-		    <!-- <li> -->
-					<a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
-				<!-- </li> -->
-			</center>
-	  {% endfor %}
-    <!-- </ul> -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-10">
+			    <ul>
+			    {% for link in site.data.navigation %}
+				    {% if link.url contains 'http' %}
+				        {% assign domain = '' %}
+				        {% else %}
+				        {% assign domain = site.url %}
+				    {% endif %}
+				    <li>
+							<a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
+						</li>
+				  {% endfor %}
+			    </ul>
+				</div>
+			</div>
+		</div>
 	</nav>
 </div><!-- /.navigation-wrapper -->
-{% endunless %}
 
 {% include browser-upgrade.html %}
 
