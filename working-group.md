@@ -21,7 +21,7 @@ Zoom. While we'd like to use an open source platform, we find that this works be
 
 ### Rules:
 
-We follow both [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) and the [Contributor Covenant](https://www.contributor-covenant.org/).
+We follow both [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) and the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/).
 
 ### Who:
 
