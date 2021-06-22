@@ -88,6 +88,9 @@ p, .entry-content li  {
     list-style: none;
     li {
       display:inline;
+      &:not(:first-child) {
+        padding-left: 20px;
+      }
     }
   }
 }
