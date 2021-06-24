@@ -33,3 +33,9 @@ By Silona Bonewald, March 2021
 By Deb Bryant, March 2021
 
 <iframe width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true" src="https://www.crowdcast.io/e/women-in-open-source?navlinks=false&embed=true" style="border: 1px solid #EEE;border-radius:3px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" allow="microphone; camera;"></iframe><a ng-href="https://www.crowdcast.io/?utm_source=embed&utm_medium=website&utm_campaign=embed" style="color: #aaa; font-family: 'Helvetica', 'Arial', sans-serif;text-decoration: none;display: block;text-align: center;font-size: 13px;padding: 5px 0">powered by Crowdcast</a>
+
+### Let's Talk Open Source
+
+With Sarah Novotny, October 2020
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/y4W93j35B94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
