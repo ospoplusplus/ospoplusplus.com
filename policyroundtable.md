@@ -40,7 +40,7 @@ Our goal is to invite multidisciplinary discussion.  We will convene several for
 Each Policy Roundtable event is designed to foster a specific type and scope of discussion.  We will open some events to the public, but most discussion will happen in invite-only forums with participants selected for their contributions to the collective discourse. 
 
 To enable free discussion, we ask participants to adhere to the Chatham House Rule, which permits use of the information presented in discussions, but prohibits identifying speakers, participants, or affiliations. Beyond that, we hope to maintain high standards of courtesy and respect in our exchanges of ideas, and we will facilitate discussion with that end in mind.
- 
+
 ## Facilitators & Contact
 
-The facilitators are Jacob Green (<a href="mailto:jacob.green@mosslabs.io">jacob.green@mosslabs.io</a>) and James Vasile (<a href="mailto:james@opentechstrategies.com">james@opentechstrategies.com</a>).  Please contact them directly, or via <a href="mailto:policy_roundtable@iaos.org">policy_roundtable@iaos.org</a>.
+The facilitators are Jacob Green (<a href="mailto:jacob.green@mosslabs.io">jacob.green@mosslabs.io</a>) and James Vasile (<a href="mailto:james@opentechstrategies.com">james@opentechstrategies.com</a>).  Please contact them directly.
