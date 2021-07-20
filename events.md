@@ -41,7 +41,6 @@ OSPO++ members have both hosted and spoken at many conferences about Open Source
     * **[OSPO Collaboration Network](https://bit.ly/2l6uvsP)**
 * **Global Tech Jam - Sept 2019**
     * **[Regional Open Source Program Offices](https://globaltechjam.com/2019-global-tech-jam-presentations/)**
-* **TEDxGeneva 2014**
 
 ### Video Playlist
 
