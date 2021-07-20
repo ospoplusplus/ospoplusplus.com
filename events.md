@@ -7,6 +7,8 @@ search_omit: false
 
 OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of our talks from:
 
+* **Essential Open Source Software for Science 2020**
+  * **[Keynote: The Potential of University-Based Open Source Programs Offices](https://www.youtube.com/watch?v=V2MNHXggHYE)**
 * **OFE & OSPO++ 2021**
     * **[OSPOs in Government](https://openforumeurope.org/event/ospos-in-government-workshop-with-public-officials/)**
 * **Open Forum Europe's Open Source Policy Series 2021**
