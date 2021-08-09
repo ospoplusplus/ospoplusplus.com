@@ -29,8 +29,10 @@ search_omit: true
         <img src="assets/images/members/fauen.png" title="Friedrich-Alexander Universität Erlangen-Nürnberg" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
-        <!-- <a href="https://www.soe.ucsc.edu/" target="_blank"> -->
         <img src="assets/images/members/baskin-logo-new.jpg" title="BASKIN CROSS" class="align-middle"/>
+      </div>
+      <div class="col-6 col-md-3">
+        <img src="assets/images/members/bitergia_logo_text.svg" title="Bitergia" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
         <img src="assets/images/members/brandeis-logo-stacked-seal-blue-digital (1).png" title="Brandeis" class="align-middle"/>
