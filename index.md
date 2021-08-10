@@ -25,8 +25,9 @@ search_omit: true
       <div class="col-sm-12">
         <p class="rainbow">Current OSPO++ Members</p>
       </div>
+
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/fauen.png" title="Friedrich-Alexander Universität Erlangen-Nürnberg" class="align-middle"/>
+        <img src="assets/images/members/ApereoFoundationLogo.png" title="Apereo Foundation" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
         <img src="assets/images/members/baskin-logo-new.jpg" title="BASKIN CROSS" class="align-middle"/>
@@ -43,6 +44,9 @@ search_omit: true
       <div class="col-6 col-md-3">
         <!-- <a href="https://www.eclipse.org/" target="_blank"> -->
           <img src="assets/images/members/eclipse_foundation_logo/EF_GRY-OR_jpg.jpg" title="Eclipse Foundation" class="align-middle"/>
+      </div>
+      <div class="col-6 col-md-3">
+        <img src="assets/images/members/fauen.png" title="Friedrich-Alexander Universität Erlangen-Nürnberg" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
         <img src="assets/images/members/GitHub_Logo.png" title="GitHub" class="align-middle"/>
