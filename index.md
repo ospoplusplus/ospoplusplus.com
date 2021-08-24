@@ -85,6 +85,9 @@ search_omit: true
         <img src="assets/images/members/sheridan.png" title="Johns Hopkins Libraries" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
+        <img src="assets/images/members/Logo-1B-SMALL-Gold-Blue.png" title="Alfred P. Sloan Foundation" class="align-middle"/>
+      </div>
+      <div class="col-6 col-md-3">
         <img src="assets/images/members/st_logo.png" title="Space Telescope Science Institute" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
