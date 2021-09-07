@@ -6,7 +6,7 @@ excerpt: "Information about the OSPO++ Working Group"
 search_omit: false
 ---
 
-The center of OSPO++ is our working group - a biweekly, recurring meeting where we share how we're building open source program offices (OSPOs), where we collaborate on new initiatives, where we form a community of like-minded open source practictioners, and where we support each other's efforts.
+The center of OSPO++ is our working group - a biweekly, recurring meeting where we share how we're building open source program offices (OSPOs), where we collaborate on new initiatives, where we form a community of like-minded open source practitioners, and where we support each other's efforts.
 
 
 Over the past two years, we've held more than 500 hours of collective mind-sharing on the topic of OSPOs and how to effectively bring open source to our institutions.
