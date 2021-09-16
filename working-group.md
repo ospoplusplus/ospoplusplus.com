@@ -13,7 +13,37 @@ Over the past two years, we've held more than 500 hours of collective mind-shari
 
 ### When:
 
-We meet biweekly on Thursdays at 5pm GMT. (9am PT, 12pm ET, 5pm GMT, 6pm CET).
+We meet biweekly on Thursdays. Depending on whether the topic is based on Universities or Cities, we have an earlier or a later session. The main track is always in the first thirty minutes, followed by a community track for the remainder of the hour.
+
+## September 30th: Cities, Governments, and Agencies
+
+- When: 7am PT, 10am ET, 4pm CET
+- Main track: City & Regional OSPOs
+- Hosts: IAOS & OFE
+
+- Community track: Mapping OS Academic Ecosystem - both sides
+- Hosts: Sustain OS, Apereo, OS Ireland
+
+## October 7: Universities & Academia
+
+- When: 9am PT, 12pm ET, 6pm CET
+
+- Main track: Open Scholarship
+- Hosts: Johns Hopkins & IAOS
+
+- Community track: Mapping OS Academic Ecosystem - both sides
+- Hosts: Sustain OS, Apereo, OS Ireland
+
+## October 21st: Cities, Governments, and Agencies
+
+- When: 7am PT, 10am ET, 4pm CET
+- Main track: EU OSPO Network
+- Hosts: UN, OFE, Mosslabs
+
+- Community track: Metrics & Platforms
+- Hosts: TBD
+
+## November - TBD
 
 ### Where:
 
