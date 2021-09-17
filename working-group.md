@@ -28,8 +28,8 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 
 - When: 9am PT, 12pm ET, 6pm CET
 
-- Main track: Open Scholarship
-- Hosts: Johns Hopkins & IAOS
+- Main track: Using OSS to deal with restricted data
+- Hosts: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins & IAOS
 
 - Community track: Mapping OS Academic Ecosystem - both sides
 - Hosts: Sustain OS, Apereo, OS Ireland
