@@ -9,7 +9,7 @@ search_omit: false
 The center of OSPO++ is our working group - a biweekly, recurring meeting where we share how we're building open source program offices (OSPOs), where we collaborate on new initiatives, where we form a community of like-minded open source practitioners, and where we support each other's efforts.
 
 
-Over the past two years, we've held more than 500 hours of collective mind-sharing on the topic of OSPOs and how to effectively bring open source to our institutions..
+Over the past two years, we've held more than 500 hours of collective mind-sharing on the topic of OSPOs and how to effectively bring open source to our institutions.
 
 ### When:
 
@@ -18,7 +18,7 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 
 ## October 7: Universities & Academia
 
-- When: 9am PT, 12pm ET, 6pm CET
+- When: 9am PT, 12pm EDT, 6pm CET
 
 - Main track: Using OSS to deal with restricted data
 - Hosts: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins & IAOS
