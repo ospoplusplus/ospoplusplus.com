@@ -26,15 +26,6 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 - Community track: Mapping OS Academic Ecosystem - both sides
 - Hosts: Sustain OS, Apereo, OS Ireland
 
-## October 21st: Cities, Governments, and Agencies
-
-- When: 7am PT, 10am ET, 4pm CET
-- Main track: EU OSPO Network
-- Hosts: UN, OFE, Mosslabs
-
-- Community track: Metrics & Platforms
-- Hosts: TBD
-
 ## November - TBD
 
 ### Where:
