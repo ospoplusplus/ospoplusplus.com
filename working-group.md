@@ -36,7 +36,9 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 - Community track: Coming Soon
 - Hosts: Open Forum Europe, Mosslabs
 
-## November - TBD
+## November 2:  Universities & Academia. (Save the Date)
+
+## November 8:  Governments & Agencies. (Save the Date)
 
 ### Where:
 
