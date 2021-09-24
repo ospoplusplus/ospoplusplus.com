@@ -7,6 +7,8 @@ search_omit: false
 
 OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of our talks from:
 
+* **UN 76th Session - Side Conference Sept 2021**
+  * **[OA21 Plenary: From Open Software to Open Culture - Opportunities and challenges of open source to support the United Nation mandate](https://media.un.org/en/asset/k1o/k1ovtqdxd9)**
 * **Open Apereo 2021**
   * **[OA21 Plenary: Open Source Program Offices in Higher Education](https://www.youtube.com/watch?v=7tzctTYhDIc)**
 * **OFE & OSPO++ 2021**
