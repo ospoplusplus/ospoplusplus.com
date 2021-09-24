@@ -21,7 +21,7 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 - When: 9am PT, 12pm EDT, 6pm CET
 
 - Main track: Using OSS to deal with restricted data
-- Hosts: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins & IAOS
+- Hosts: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins
 
 - Community track: Mapping OS Academic Ecosystem - both sides
 - Hosts: IAOS, Sustain OS, Apereo
@@ -31,7 +31,7 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 - When: 6am PT, 9am EDT, 3pm CET
 
 - Main track: Coming Soon
-- Hosts: Open Forum Europe, Mosslabs
+- Hosts:  Coming Soon
 
 - Community track: Coming Soon
 - Hosts: Open Forum Europe, Mosslabs
