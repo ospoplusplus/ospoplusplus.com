@@ -16,7 +16,7 @@ Over the past two years, we've held more than 500 hours of collective mind-shari
 We meet biweekly on Thursdays. Depending on whether the topic is based on Universities or Cities, we have an earlier or a later session. The main track is always in the first thirty minutes, followed by a community track for the remainder of the hour.
 
 
-## October 7: Universities & Academia
+## October 7:  Universities & Academia
 
 - When: 9am PT, 12pm EDT, 6pm CET
 
@@ -24,7 +24,17 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 - Hosts: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins & IAOS
 
 - Community track: Mapping OS Academic Ecosystem - both sides
-- Hosts: Sustain OS, Apereo, OS Ireland
+- Hosts: IAOS, Sustain OS, Apereo
+
+## October 7: Governments & Agencies
+
+- When: 6am PT, 9am EDT, 3pm CET
+
+- Main track: Coming Soon
+- Hosts: Open Forum Europe, Mosslabs
+
+- Community track: Coming Soon
+- Hosts: Open Forum Europe, Mosslabs
 
 ## November - TBD
 
