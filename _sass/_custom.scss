@@ -58,7 +58,7 @@ body {
   }
 }
 
-#content {
+.content {
   padding-top: 10%;
   padding-bottom: 10%;
 }
@@ -85,7 +85,6 @@ p, .entry-content li  {
 
 .navigation-wrapper {
   background-color: #212529;
-  height: 50px;
   nav ul {
     padding-top: 10px;
     padding-left: 0px;
@@ -189,9 +188,18 @@ a {
     }
   }
   .navigation-wrapper {
-    height: 50px;
     a {
       font-size: 20px;
     }
   }
 }
+
+.intro-para {
+  p {
+    font-size: 1.7em;
+  }
+  a.get-in-touch {
+    color: blue;
+  }
+}
+
