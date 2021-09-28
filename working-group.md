@@ -15,35 +15,30 @@ Over the past two years, we've held more than 500 hours of collective mind-shari
 
 We meet biweekly on Thursdays. Depending on whether the topic is based on Universities or Cities, we have an earlier or a later session. The main track is always in the first thirty minutes, followed by a community track for the remainder of the hour.
 
-## September 30th: Cities, Governments, and Agencies
 
-- When: 7am PT, 10am ET, 4pm CET
-- Main track: City & Regional OSPOs
-- Hosts: IAOS & OFE
+## October 7:  Universities & Academia
 
-- Community track: Mapping OS Academic Ecosystem - both sides
-- Hosts: Sustain OS, Apereo, OS Ireland
-
-## October 7: Universities & Academia
-
-- When: 9am PT, 12pm ET, 6pm CET
+- When: 9am PT, 12pm EDT, 6pm CET
 
 - Main track: Using OSS to deal with restricted data
-- Hosts: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins & IAOS
+- Hosts: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins
 
 - Community track: Mapping OS Academic Ecosystem - both sides
-- Hosts: Sustain OS, Apereo, OS Ireland
+- Hosts: IAOS, Sustain OS, Apereo
 
-## October 21st: Cities, Governments, and Agencies
+## October 7: Governments & Agencies
 
-- When: 7am PT, 10am ET, 4pm CET
-- Main track: EU OSPO Network
-- Hosts: UN, OFE, Mosslabs
+- When: 6am PT, 9am EDT, 3pm CET
 
-- Community track: Metrics & Platforms
-- Hosts: TBD
+- Main track: Coming Soon
+- Hosts:  Coming Soon
 
-## November - TBD
+- Community track: Coming Soon
+- Hosts: Open Forum Europe, Mosslabs
+
+## November 2:  Universities & Academia. (Save the Date)
+
+## November 8:  Governments & Agencies. (Save the Date)
 
 ### Where:
 
