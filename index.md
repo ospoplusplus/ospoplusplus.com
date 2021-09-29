@@ -22,7 +22,7 @@ search_omit: true
     <div class="col-lg-12">
       <p>OSPO++ is a network and a community of collaborative open source program offices in universities, governments, and civic institutions. We're building resources to help create OSPOs, actively engaging in discussions on how to best manage and grow open source programs, and how to garden sustainable communities that last.</p>
 
-      <p>Interested in joining us? <a class="get-in-touch" href="mailto:info@mosslabs.io">Get in touch.</a> Register and Attend our <a class="get-in-touch" href="https://ospoplusplus.com/events/">Working Group Events </a></p>
+      <p>Interested in joining us? <a class="get-in-touch" href="mailto:info@mosslabs.io">Get in touch.</a> Register and Attend our <a class="get-in-touch" href="https://ospoplusplus.com/working-group/">Working Group Discussions </a></p>
 </div></div></div>
 
 <div class="logos">
