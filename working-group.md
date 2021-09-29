@@ -21,8 +21,7 @@ We meet biweekly on Thursdays. Depending on whether the topic is based on Univer
 
 - When: 9am PT, 12pm EDT, 6pm CET
 
-- Guests: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins
--         [Karthik Ram](https://ram.berkeley.edu/), UC Berkeley
+- Guests: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins, [Karthik Ram](https://ram.berkeley.edu/), UC Berkeley
 
 ## October 7: Governments & Agencies [register](https://www.eventbrite.com/e/ospo-europe-policy-goals-with-open-source-tickets-180065660237)
 - Topic:  Policy Goals with Open Source
