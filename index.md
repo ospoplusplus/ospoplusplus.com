@@ -71,6 +71,9 @@ search_omit: true
         <img src="assets/images/members/moss labs black.png" title="MOSS Labs" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
+        <img src="assets/images/members/oasisopen.svg" title="Oasis Open" class="align-middle"/>
+      </div>
+      <div class="col-6 col-md-3">
         <img src="assets/images/members/OpenCommons.jpg" title="Open Commons" class="align-middle"/>
       </div>
       <div class="col-6 col-md-3">
