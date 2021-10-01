@@ -203,3 +203,16 @@ a {
   }
 }
 
+.register {
+  background-color: purple;
+  color: white !important;
+  margin: 20px;
+  &:visited {
+    color: white;
+  }
+  &:hover {
+    color: white;
+    background-color: green;
+  }
+}
+
