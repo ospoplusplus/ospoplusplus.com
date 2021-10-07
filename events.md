@@ -7,6 +7,18 @@ search_omit: false
 
 OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of our talks from:
 
+* **OSPOCon EU - October 6, 2021**
+  * **[The Political Potential of OSPOs - Clare Dillon (Mosslabs), Astor Nummelin Carlberg (Open Forum Europe)](https://sched.co/m4QV)**
+* **OSPOCon - September 27-30, 2021**
+  * **[University-based Open Source Program Offices - Sayeed Choudhury, Johns Hopkins University](https://sched.co/lAOe)**
+  * **[Open@RIT, Creation of a University OSPO and the First Year’s Lessons Learned - Stephen Jacobs, Rochester Institute of Technology](https://sched.co/lAOb)**
+  * **[Discussion:  How Government OSPOs Deliver Value for Citizens at Scale - Astor Nummelin-Carlberg (Open Forum Europe), Maurizio Maria Gazzola (United Nations), Clare Dillon (Mosslabs),  Mala Kumar (Github), Gijs Hillenius (European Commission)](https://sched.co/lAOh)**
+  * **[Amplifying University Research Impact with Open Source Stephanie Lieggi & Carlos Maltzahn (Center for Research In Open Source Software, UC Santa Cruz)](https://sched.co/lAP5)**
+  * **[The OSPO as a Construct for Global Change - Danese Cooper, Nearform](https://sched.co/lAM5)**
+* **US National Academies of Science Engineering & Medicine - September 30, 2021**
+  * **[Developing a Toolkit for Fostering Open Science Practices:  Proceedings of a Workshop Release Event](https://www.nationalacademies.org/event/09-30-2021/developing-a-toolkit-for-fostering-open-science-practices-proceedings-of-a-workshop-release-event)**
+* **United Nations Web TV - September 23, 2021**
+  * **[United Nations - From Open Software to Open Culture - Opportunities…](https://media.un.org/en/asset/k1o/k1ovtqdxd9)**
 * **UN 76th Session - Side Conference Sept 2021**
   * **[From Open Software to Open Culture - Opportunities and challenges of open source to support the United Nation mandate](https://media.un.org/en/asset/k1o/k1ovtqdxd9)**
 * **Open Apereo 2021**
