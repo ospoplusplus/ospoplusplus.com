@@ -122,7 +122,7 @@ search_omit: true
       </div>
       <div class="col-sm-12">
         {% for post in site.posts %}
-          <p class="text-center"><a href="{{ site.url }}/{{ post.url }}">{{ post.title }} by {{ site.data.authors[post.author].name }}<a/></p>
+        <p class="text-center"><a href="{{ site.url }}/{{ post.url }}">{{ post.title }} by {{ site.data.authors[post.author].name }}</a></p>
         {% endfor %}
       </div>
     </div>
