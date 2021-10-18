@@ -15,13 +15,14 @@ Over the past two years, we've held more than 500 hours of collective mind-shari
 
 We meet twice monthly on Thursdays (usually). Depending on whether the topic is based on 'Universities and Academia' or 'Cities and Governments'.
 
-## November 2:  Universities & Academia
-
-More information coming soon.
-
 ## November 8:  Governments & Agencies
 
 More information coming soon.
+
+## November 16:  Universities & Academia
+
+More information coming soon.
+
 
 ### Where:
 
