@@ -15,31 +15,13 @@ Over the past two years, we've held more than 500 hours of collective mind-shari
 
 We meet twice monthly on Thursdays (usually). Depending on whether the topic is based on 'Universities and Academia' or 'Cities and Governments'.
 
-## October 7: Governments & Agencies
+## November 2:  Universities & Academia
 
+More information coming soon.
 
-- Topic:  Policy Goals with Open Source
+## November 8:  Governments & Agencies
 
-- When: 6am PT, 9am EDT, 3pm CET
-
-- Welcome to the OSPO++ European kickoff.  Interactive discussion on Achieving Policy Goals with Open Source.
-- Facilitated by: Clare Dillon (OSPO++ & Open Ireland Network), Astor Nummelin Carlberg (OSPO Alliance & OFE), Leslie Hawthorn (TODO Europe & Redhat): 
-
-<a href="https://www.eventbrite.com/e/ospo-europe-policy-goals-with-open-source-tickets-180065660237" class="btn register" target="_blank">Register Here</a>
-
-## October 7:  Universities & Academia
-
-- Topic:  Open Science with Karthik Ram and OSS and Medical Data with Paul Nagy
-
-- When: 9am PT, 12pm EDT, 6pm CET
-
-- Guests: [Paul Nagy](https://www.hopkinsmedicine.org/profiles/details/paul-nagy), Johns Hopkins, [Karthik Ram](https://ram.berkeley.edu/), UC Berkeley
-
-<a href="https://www.eventbrite.com/e/open-science-with-karthik-ram-and-oss-and-medical-data-with-paul-nagy-tickets-177962178667" class="btn register" target="_blank">Register Here</a>
-
-## November 2:  Universities & Academia. (Save the Date)
-
-## November 8:  Governments & Agencies. (Save the Date)
+More information coming soon.
 
 ### Where:
 
