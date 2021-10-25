@@ -21,6 +21,11 @@ We meet twice monthly on Thursdays (usually). Depending on whether the topic is 
 
 - When: 9am ET, 3pm CET
 
+- Three Institutions, Two OSPOs, and Shared Policy Goals:
+        * [St. Francis Neighborhood Center - West Baltimore](https://www.stfranciscenter.org/)
+        * [City of Paris France](https://opensource.paris.fr/ossparis/)
+        * [Johns Hopkins University](https://drcc.library.jhu.edu/open-source-programs-office/)
+
 - This special 2 hour OSPO++ Workshop happens live from Paris as part the in-person Paris Open Source Global Forum (Nov 8) and at the start of the Paris Open Source Experience (Nov 9 & 10).  
 
 - We bring together perspectives on institutional-to-institution cooperation from politicians, academics, and community leaders, while showcasing a real-world case-study of Open Source and Policy Cooperation.
