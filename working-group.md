@@ -28,7 +28,7 @@ More information coming soon.
 - Guests: 
     * [Matt Germanprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), Univeristy of Omaha
     * [Dawn Foster](https://www.linkedin.com/in/dawnfoster/), VMWare
-    * [Georg Link](https://www.linkedin.com/in/georglink/), Bitergi
+    * [Georg Link](https://www.linkedin.com/in/georglink/), Bitergia
     * [Sean Gobbins](https://www.seangoggins.net/), University of Missouri-Columbia
     * [Stephen Jacobs](https://www.linkedin.com/in/itprofjacobs/), Rochester Institute of Technology
     * [Emi Simpson](https://opensource.ieee.org/emi), Rochester Institute of Technology
