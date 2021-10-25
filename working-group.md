@@ -30,11 +30,11 @@ We meet twice monthly on Thursdays (usually). Depending on whether the topic is 
 
 - We bring together perspectives on institutional-to-institution cooperation from politicians, academics, and community leaders, while showcasing a real-world case-study of Open Source and Policy Cooperation.
 
-     * Insightful Keynotes by leading politicians
-     * Quick global briefings on OSPOs from OSPOs
-     * Panel discussion with Neighborhood Community Members
-     * Panel discussion with Developer Community Members
-     * Demo's
+    * Insightful Keynotes by leading politicians
+    * Quick global briefings on OSPOs from OSPOs
+    * Panel discussion with Neighborhood Community Members
+    * Panel discussion with Developer Community Members
+    * Demo's
 
 <a href="https://www.eventbrite.com/e/ospo-when-institutions-cooperate-2-hour-special-live-from-paris-tickets-198312426807" class="btn register" target="_blank">Register Here</a>
 
