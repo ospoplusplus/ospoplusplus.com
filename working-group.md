@@ -17,7 +17,19 @@ We meet twice monthly on Thursdays (usually). Depending on whether the topic is 
 
 ## November 8:  Governments & Agencies
 
-More information coming soon.
+- Topic:  When Institutions Cooperate (2 Hour Special, Live from Paris)
+
+- When: 9am ET, 3pm CET
+
+- This special 2 hour OSPO++ Workshop happens live from Paris as part the in-person Paris Open Source Global Forum (Nov 8) and at the start of the Paris Open Source Experience (Nov 9 & 10).  We bring together perspectives on institutional-to-institution cooperation from politicians, academics, and community leaders, while showcasing a real-world case-study of Open Source and Policy Cooperation.
+
+      * Insightful Keynotes by leading politicians
+      * Quick global briefings on OSPOs from OSPOs
+      * Panel discussion with Neighborhood Community Members
+      * Panel discussion with Developer Community Members
+      * Demo's
+
+<a href="https://www.eventbrite.com/e/ospo-when-institutions-cooperate-2-hour-special-live-from-paris-tickets-198312426807" class="btn register" target="_blank">Register Here</a>
 
 ## November 18:  Universities & Academia
 
