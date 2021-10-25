@@ -19,9 +19,20 @@ We meet twice monthly on Thursdays (usually). Depending on whether the topic is 
 
 More information coming soon.
 
-## November 16:  Universities & Academia
+## November 18:  Universities & Academia
 
-More information coming soon.
+- Topic:  Measuring OSPOs, Measuring Open Source, Measuring Impact - Theory to Practice
+
+- When: 9am PT, 12pm EDT, 6pm CET
+
+- Guests: [Matt Germanprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), Univeristy of Omaha
+-         [Dawn Foster](https://www.linkedin.com/in/dawnfoster/), VMWare
+-         [Georg Link](https://www.linkedin.com/in/georglink/), Bitergia
+-         [Sean Gobbins](https://www.seangoggins.net/), University of Missouri-Columbia
+-         [Stephen Jacobs](https://www.linkedin.com/in/itprofjacobs/), Rochester Institute of Technology
+-         [Emi Simpson](https://opensource.ieee.org/emi), Rochester Institute of Technology
+
+<a href="https://www.eventbrite.com/e/ospo-measuring-ospos-measuring-open-source-measuring-impact-tickets-198628462077" class="btn register" target="_blank">Register Here</a>
 
 
 ### Where:
