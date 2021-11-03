@@ -38,15 +38,15 @@ We meet twice monthly on Thursdays (usually). Depending on whether the topic is 
 
 <a href="https://www.eventbrite.com/e/ospo-when-institutions-cooperate-2-hour-special-live-from-paris-tickets-198312426807" class="btn register" target="_blank">Register Here</a>
 
-## November 18:  Universities & Academia
+## November 11:  Universities & Academia
 
 - Topic:  Measuring OSPOs, Measuring Open Source, Measuring Impact - Theory to Practice
 
-- When: 9am PT, 12pm EDT, 6pm CET
+- When: 9am PT, 12pm EDT, 6pm CET on Thursday November 11, 2021
 
 - Guests: 
     * [Matt Germanprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), Univeristy of Omaha
-    * [Dawn Foster](https://www.linkedin.com/in/dawnfoster/), VMWare
+    * [Kathik Ram](https://ram.berkeley.edu/), UC Berkley
     * [Georg Link](https://www.linkedin.com/in/georglink/), Bitergia
     * [Sean Gobbins](https://www.seangoggins.net/), University of Missouri-Columbia
     * [Stephen Jacobs](https://www.linkedin.com/in/itprofjacobs/), Rochester Institute of Technology
