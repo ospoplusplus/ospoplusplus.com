@@ -48,6 +48,7 @@ We meet twice monthly on Thursdays (usually). Depending on whether the topic is 
     * [Matt Germanprez](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php), Univeristy of Omaha
     * [Kathik Ram](https://ram.berkeley.edu/), UC Berkley
     * [Georg Link](https://www.linkedin.com/in/georglink/), Bitergia
+    * [Peace Ojemeh](https://www.linkedin.com/in/peace-ojemeh-0b5bb2151/), Sugar Labs
     * [Sean Gobbins](https://www.seangoggins.net/), University of Missouri-Columbia
     * [Stephen Jacobs](https://www.linkedin.com/in/itprofjacobs/), Rochester Institute of Technology
     * [Emi Simpson](https://opensource.ieee.org/emi), Rochester Institute of Technology
