@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OSPO++ Working Group"
+title: "Community"
 # ignore_title: true
 excerpt: "Information about the OSPO++ Working Group"
 search_omit: false
