@@ -27,16 +27,6 @@ We follow both [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_
 
 Those that currently run OSPOs, inside champions looking to build an OSPO in their organization, and anyone else seeking to be part of this conversation.
 
-### Types of OSPOs:
-
-  - University OSPOs
-  - Research Center OSPOs
-  - National & Regional Government OSPOs
-  - Government Department or Agency OSPO
-  - City and Public Administration OSPOs
-  - Philanthropic Funding & Policy Foundations (private & public)
-  - Global NGOs
-
 ### How?
 
 Want to join in? <a href="mailto:info@mosslabs.io">Get in touch.</a>

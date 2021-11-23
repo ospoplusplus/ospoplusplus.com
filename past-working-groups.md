@@ -12,7 +12,7 @@ The center of OSPO++ is our working group - a biweekly, recurring meeting where 
 Over the past two years, we've held more than 500 hours of collective mind-sharing on the topic of OSPOs and how to effectively bring open source to our institutions.
 
 
-### November 8:  Governments & Agencies
+### November 8th, 2021:  Governments & Agencies
 
 - Topic:  When Institutions Cooperate (2 Hour Special, Live from Paris)
 
@@ -31,11 +31,9 @@ Over the past two years, we've held more than 500 hours of collective mind-shari
     * Quick global briefings on OSPOs from OSPOs
     * Panel discussion with Neighborhood Community Members
     * Panel discussion with Developer Community Members
-    * Demo's
+    * Demos
 
-<a href="https://www.eventbrite.com/e/ospo-when-institutions-cooperate-2-hour-special-live-from-paris-tickets-198312426807" class="btn register" target="_blank">Register Here</a>
-
-### November 11:  Universities & Academia
+### November 11th, 2021:  Universities & Academia
 
 - Topic:  Measuring OSPOs, Measuring Open Source, Measuring Impact - Theory to Practice
 
@@ -50,4 +48,4 @@ Over the past two years, we've held more than 500 hours of collective mind-shari
     * [Stephen Jacobs](https://www.linkedin.com/in/itprofjacobs/), Rochester Institute of Technology
     * [Emi Simpson](https://opensource.ieee.org/emi), Rochester Institute of Technology
 
-<a href="https://www.eventbrite.com/e/ospo-measuring-ospos-measuring-open-source-measuring-impact-tickets-198628462077" class="btn register" target="_blank">Register Here</a>
+### More coming soon!
