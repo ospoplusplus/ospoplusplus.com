@@ -21,6 +21,18 @@ Today, we have four different major working groups, focusing on:
 
 We meet twice monthly on Thursdays, alternating between 'Universities and Academia' and 'Cities and Governments'. We post about how to join on our mailing list.
 
+### December 9
+  Topic:  2021 - FOSS Community Closing Happy Hours
+  Time:          3pm CET / 9am EST / 6am PST     
+                 (AND)
+                 6pm CET / 12pm EST / 9am PST
+        
+  Description:   As 2021 roles to a close, we invite all those we have interacted with, virtually and in-person, to come together, stop by and share a drink and chat with us.
+                Morning Tea?
+                Afternoon Coffee?
+                Afterwork Beer or Wine?
+        
+        
 The US Open Source Policy group has a different schedule; [learn more here](/policyroundtable).
 
 The EU OSS network meets quarterly, in person, at a different European host city. Get in touch to learn more.
