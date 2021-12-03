@@ -25,15 +25,15 @@ We post about how to join on our mailing list.
 
 - The EU OSS network meets quarterly, in person, at a different European host city. Get in touch to learn more.
 
-- 'Universities and Academia' and 'Cities and Governments' each meet generally meets once monthly on Thursdays. 
+- 'Universities and Academia' and 'Cities and Governments' each generally meet once monthly on Thursdays. 
 
 ### December 9 - 'Universities and Academia' and 'Cities and Governments'
-  - Topic:  2021 FOSS Community Closing Happy Hours
+  - Topic:  2021 FOSS OSPO Community Closing Happy Hours
   - Time:   3pm CET / 9am EST / 6am PST     
           (AND)
           6pm CET / 12pm EST / 9am PST
         
-  - Description:   As 2021 roles to a close, we invite all those we have interacted with, virtually and in-person, to come together, stop by and share a drink and chat with us.
+  - Description:   As 2021 roles to a close, we invite all those in the OSPO ecosystem, that we have interacted with virtually, in-person or have yet to meet, to come together, stop by and share in the geroup discussion, announce & celebrate your and other's FOSS wins together, have a beakout chat with a friend, and join us for a drink.   
                 Morning Tea?
                 Afternoon Coffee?
                 Afterwork Beer or Wine?
