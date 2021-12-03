@@ -33,7 +33,7 @@ We post about how to join on our mailing list.
           (AND)
           6pm CET / 12pm EST / 9am PST
         
-  - Description:   As 2021 roles to a close, we invite all those in the OSPO ecosystem, that we have interacted with virtually, in-person or have yet to meet, to come together, stop by and share in the group discussion, announce & celebrate your and other's FOSS wins together, have a beakout chat with a friend, and join us for a drink.   
+  - Description:   As 2021 roles to a close, we invite all those in the OSPO ecosystem, that we have interacted with virtually, in-person or have yet to meet, to come together, stop by and share in the group discussion, announce & celebrate your and other's FOSS wins together, have a breakout chat with a friend, and join us for a drink.   
                 Morning Tea?
                 Afternoon Coffee?
                 Afterwork Beer or Wine?
