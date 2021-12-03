@@ -27,13 +27,13 @@ We post about how to join on our mailing list.
 
 - 'Universities and Academia' and 'Cities and Governments' each meet generally meets once monthly on Thursdays. 
 
-### December 9
-  Topic:  2021 FOSS Community Closing Happy Hours
-  Time:   3pm CET / 9am EST / 6am PST     
+### December 9 - 'Universities and Academia' and 'Cities and Governments'
+  - Topic:  2021 FOSS Community Closing Happy Hours
+  - Time:   3pm CET / 9am EST / 6am PST     
           (AND)
           6pm CET / 12pm EST / 9am PST
         
-  Description:   As 2021 roles to a close, we invite all those we have interacted with, virtually and in-person, to come together, stop by and share a drink and chat with us.
+  - Description:   As 2021 roles to a close, we invite all those we have interacted with, virtually and in-person, to come together, stop by and share a drink and chat with us.
                 Morning Tea?
                 Afternoon Coffee?
                 Afterwork Beer or Wine?
