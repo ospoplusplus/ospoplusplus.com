@@ -33,9 +33,8 @@ Accompanying the event a case-study report on the cooperation between three inst
 [Full Session Video Recording](https://youtu.be/oGtCEPy2_-Y) (1h 41m)
 
 Part 1:  [Welcome to OSPO++ Special Edition, Live from Paris City Hall](https://youtu.be/eP9c4ogMAXI) (7 mins)
-
-	* Clare Dillon - Mosslabs & OSPO++ Facilitator 
-	* Jacob Green - Mosslabs & OSPO++ Facilitator 
+	* Clare Dillon: Mosslabs & OSPO++ Facilitator 
+	* Jacob Green: Mosslabs & OSPO++ Facilitator 
 
 Part 2:  State of OpenSource in Europe (https://youtu.be/TZoDm3-EZxc) (3 mins)
 
