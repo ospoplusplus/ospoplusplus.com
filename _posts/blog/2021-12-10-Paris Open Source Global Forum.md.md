@@ -7,6 +7,7 @@ date: 2021-12-10-1-20
 ---
 
 ## OSPO++ Policy, Governments & Agencies Working Group
+---
 
 OSPO++ was honored to host a very special global event on Institutionalizing Open Source and our shared cooperation infrastructure. 
 This special live 2-hour event was held at Paris City Hall (Hôtel de Ville) on  November 8th 2021 as an exploration of the potential for OSPO++ to OSPO++ cooperation. This hybrid, in-person and virtual event, hosted distiguished speakers and discussion from around the world.  The event was part of the third "Paris Open Source Global Forum".
@@ -17,9 +18,9 @@ Accompanying the event is a [case-study report](http://www.cnn.com) on the coope
 
 - [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Baltimore, serving West Baltimore neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
 
-- [City of Paris OSPO](https://opensource.paris.fr/) - An OSPO++ partner, Paris is the largest city in the European Union, serving 2.7 Million Parisians, across 300+ city services, from its Open Source Lutece platform and empowered by mandates  voted for by its elected officials.
+- [City of Paris OSPO](https://opensource.paris.fr/) - Paris is the largest city in the European Union, serving 2.7 Million Parisians, across 300+ city services, from its Open Source Lutece platform and empowered by mandates voted for by its elected officials.
 
-- [Johns Hopkins University OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) - An OSPO++ partner, JHU is the largest research University in the United States, and was the first to launch an OSPO, which has one of its primary charges of local community engagement and impact.
+- [Johns Hopkins University OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) - JHU is the largest research University in the United States, and was the first to launch an OSPO, which has one of its primary charges of local community engagement and impact.
 
 ***
 
