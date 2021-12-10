@@ -5,8 +5,8 @@ author: jgreen
 tags: []
 date: 2021-12-10-1-20
 ---
-
 ## OSPO++ Policy, Governments & Agencies Working Group
+![ospo++]({{ site.url }}assets/images/logo.svg)
 ---
 
 OSPO++ was honored to host a very special global event on Institutionalizing Open Source and our shared cooperation infrastructure. 
@@ -77,7 +77,7 @@ Part 9:   [Case Study:  SFNC, City of Paris, Johns Hopkins University](https://y
 	* Jim Martino - Senior Developer, Johns Hopkins University
 
 
-![picture of boats high and dry on strand]({{ site.url }}/assets/images/blog/risingtide.png)
+![ospo++]({{ site.url }}assets/images/logo.svg)
 
 ### Open Source is about all the boats rising.
 
