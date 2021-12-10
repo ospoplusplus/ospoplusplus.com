@@ -55,7 +55,7 @@ Part 6:    [International Collaborations:  Nation State Governments, Open Source
 
 	* Heath Arensen - UN Foundation
 	* Tony Shannon - Ireland CIO Office, Head of Digital Services
-	* Leslie Hawthorn, Red Hat & OSPO++ Facilitator 
+	* Leslie Hawthorn - Red Hat & OSPO++ Facilitator 
 
 Part 7:  [City of Paris & Open Source](https://youtu.be/gaY-FlgNcUM) (13 mins)
 
