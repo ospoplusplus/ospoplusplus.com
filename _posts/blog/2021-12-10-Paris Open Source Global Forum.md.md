@@ -23,7 +23,7 @@ Accompanying the event is a [case-study report](http://www.cnn.com) on the coope
 
 ***
 
-##Session Materials: 
+## Session Materials: 
 
 [OSPO++ Case Study](http://www.cnn.com)  -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center
 
