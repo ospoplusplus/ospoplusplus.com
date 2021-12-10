@@ -7,20 +7,13 @@ date: 2021-12-10-1-20
 ---
 
 ## OSPO++ Policy, Governments & Agencies Working Group 
-Special Live 2 hour event rom Paris City Hall
-A Case Study Exploration Of The Potential for OSPO++ to OSPO++ Cooperation.
 
-OSPO++ was honored to host a very special global event on Institutionalizing Open Source, and our shared cooperation infrastructure.
-The event was held live, on November 8th 2021, from Hôtel de Ville (Paris City Hall).
-It was a hybrid, in-person and virtual event, with speakers and discussion from around the world.  
-The event was part of the third Paris Open Source Global Forum, held in-person throughout the day.
+OSPO++ was honored to host a very special global event on Institutionalizing Open Source and our shared cooperation infrastructure. 
+This special live 2-hour event was held at Paris City Hall (Hôtel de Ville) on  November 8th 2021 as an exploration of the potential for OSPO++ to OSPO++ cooperation. This hybrid, in-person and virtual event, hosted distiguished speakers and discussion from around the world.  The event was part of the third "Paris Open Source Global Forum".
 
-We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both the point of view of the noun (IP/License) and the verb (Communities of people).
+We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both the point of view of the noun (IP/License) and the verb (Communities of people).  We are excited to work with all our partners, and all stakeholders in the ecosystem toward building impactful open source cooperation infrastructure. 
 
-We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both the point of view of the noun (IP/License) and the verb (Communities of people).
-We are excited to work with all our partners, and stakeholders in the ecosystem toward building impactful open source cooperation infrastructure. 
-
-Accompanying the event a case-study report on the cooperation between three institutions was released; two OSPOs, and a share policy goal; supporting local constituents with impactful services.
+Accompanying the event is a case-study report on the cooperation between these 3 institutions; 2 OSPOs, and 1 shared policy goal -- supporting local constituents with impactful services.
 
 - St. Francis Neighborhood Center - Trusted community institution in Baltimore, serving West Baltimore neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
 
@@ -28,7 +21,7 @@ Accompanying the event a case-study report on the cooperation between three inst
 
 - Johns Hopkins University OSPO - An OSPO++ partner, JHU is the largest research University in the United States, and was the first to launch an OSPO, which has one of its primary charges of local community engagement and impact.
 
-OSPO++ Case Study -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center. 
+OSPO++ Case Study -  [Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center](http://www.cnn.com) 
 
 [Full Session Video Recording](https://youtu.be/oGtCEPy2_-Y) (1h 41m)
 
