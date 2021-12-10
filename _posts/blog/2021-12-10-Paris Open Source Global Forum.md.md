@@ -6,7 +6,7 @@ tags: []
 date: 2021-12-10-1-20
 ---
 ## OSPO++ Policy, Governments & Agencies Working Group
-![ospo++]({{ site.url }}assets/images/logo.svg)
+![ospo++]({{ site.url }}/assets/images/logo.svg)
 ---
 
 OSPO++ was honored to host a very special global event on Institutionalizing Open Source and our shared cooperation infrastructure. 
