@@ -54,8 +54,8 @@ Part 5:  [The European Commission OSPO](https://youtu.be/23QvMYlFHWQ) (18 mins)
 Part 6:    [International Collaborations:  Nation State Governments, Open Source, and Gov Stack](https://youtu.be/cJ5CXX5eMdU) (17 mins)
 
 	* Heath Arensen - UN Foundation
-	* Tony Shannon - Ireland CIO Office, Head of Digital Services 
-    	* Leslie Hawthorn, Red Hat & OSPO++ Facilitator 
+	* Tony Shannon - Ireland CIO Office, Head of Digital Services
+	* Leslie Hawthorn, Red Hat & OSPO++ Facilitator 
 
 Part 7:  [City of Paris & Open Source](https://youtu.be/gaY-FlgNcUM) (13 mins)
 
