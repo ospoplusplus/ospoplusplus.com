@@ -21,7 +21,7 @@ Accompanying the event is a [case-study report](http://www.cnn.com) on the coope
 
 - [Johns Hopkins University OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) - An OSPO++ partner, JHU is the largest research University in the United States, and was the first to launch an OSPO, which has one of its primary charges of local community engagement and impact.
 
----
+------
 
 [OSPO++ Case Study](http://www.cnn.com)  -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center
 
