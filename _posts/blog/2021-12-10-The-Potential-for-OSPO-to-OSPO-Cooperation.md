@@ -34,13 +34,14 @@ OSPO++ Case Study -  Empowering Communities Worlds Apart - Deploying open source
 
 Part 1:  [Welcome to OSPO++ Special Edition, Live from Paris City Hall](https://youtu.be/eP9c4ogMAXI) (7 mins)
 
-
 	* Clare Dillon: Mosslabs & OSPO++ Facilitator 
 	* Jacob Green: Mosslabs & OSPO++ Facilitator 
 
 Part 2:  [State of OpenSource in Europe](https://youtu.be/TZoDm3-EZxc) (3 mins)
-
-	- Astor Nummelin Carlberg - Executive Director, Open Forum Europe & OSPO++ Facilitator 
+	+ test
+	+ Astor Nummelin Carlberg - Executive Director, Open Forum Europe & OSPO++ Facilitator 
+	
+	+ test2
 		
 Part 3:  Cities and the Open Source Landscape (https://youtu.be/VRqezGXjMP0) (2 mins)
 		- Leslie Hawthorn - Senior Manager, RedHat OSPO & OSPO++ Facilitator 
