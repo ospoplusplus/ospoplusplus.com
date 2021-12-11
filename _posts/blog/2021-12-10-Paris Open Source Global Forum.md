@@ -6,7 +6,7 @@ tags: []
 date: 2021-12-10-1-20
 ---
 ## OSPO++ Policy, Governments & Agencies Working Group
-![ospo++]({{ site.url }}/assets/images/logo_sm.png) ![ospo++]({{ site.url }}/assets/images/logo_sm.png)
+![ospo++]({{ site.url }}/assets/images/blog/speakersorgs.png) 
 
 ---
 
@@ -28,7 +28,7 @@ Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empow
 
 ## Session Materials: 
 
-[OSPO++ Case Study]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)[^1]  -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center
+[OSPO++ Case Study]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)[^1]  -  "Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center"
 
 [Full Session Video Recording](https://youtu.be/oGtCEPy2_-Y) (1h 41m)
 
@@ -79,6 +79,8 @@ Part 9:   [Case Study:  SFNC, City of Paris, Johns Hopkins University](https://y
 	* Torbin Green - Operations & Program Director of St. Francis Neighborhood Center
 	* Mark Patton - Senior Developer, Johns Hopkins University
 	* Jim Martino - Senior Developer, Johns Hopkins University
+
+***
 
 
 [^1]: Special thanks to Red Hat's Brian Proffitt, Bryan Behrenshausen, and Ruth Suehle, for interviewing stakeholders, telling the story, and putting the case-study together.
