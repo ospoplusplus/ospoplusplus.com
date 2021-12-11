@@ -20,7 +20,7 @@ Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empow
 
 - [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Baltimore, serving West Baltimore neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
 
-- [City of Paris OSPO](https://opensource.paris.fr/) - Paris is the largest city in the European Union, serving 2.7 Million Parisians, across 300+ city services, from its open source Lutece platform, and empowered by mandates for open source voted in by its elected officials.
+- [City of Paris](https://opensource.paris.fr/) - Paris is the largest city in the European Union, serving 2.7 Million Parisians, across 300+ city services, from its open source Lutece platform, and empowered by mandates for open source voted in by its elected officials.
 
 - [Johns Hopkins University OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) - JHU is the largest research University in the United States, and was the first to launch an OSPO.  One of the primary missions of JHU OSPO is local community engagment and impact.
 
