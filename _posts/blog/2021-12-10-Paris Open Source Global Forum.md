@@ -16,7 +16,7 @@ We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and th
 
 ![ospo++]({{ site.url }}/assets/images/blog/speakersorgs.png) 
 
-Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)[^1] on cooperation between organization using Open Source.  3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
+Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)[^1] on cooperation between organizations using Open Source.  3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
 
 - [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Wesdt Baltimore, serving neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
 
