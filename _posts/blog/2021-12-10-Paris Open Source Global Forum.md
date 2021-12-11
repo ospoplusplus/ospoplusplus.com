@@ -7,6 +7,7 @@ date: 2021-12-10-1-20
 ---
 ## OSPO++ Policy, Governments & Agencies Working Group
 ![ospo++]({{ site.url }}/assets/images/logo_sm.png)
+
 ---
 
 OSPO++ was honored to host a very special global event on Institutionalizing Open Source and our shared cooperation infrastructure. 
@@ -23,6 +24,7 @@ Accompanying the event is a [case-study report](http://www.cnn.com) on the coope
 - [Johns Hopkins University OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) - JHU is the largest research University in the United States, and was the first to launch an OSPO, which has one of its primary charges of local community engagement and impact.
 
 ***
+![ospo++]({{ site.url }}/assets/images/blog/ParisSpreakers.jpg)
 
 ## Session Materials: 
 
