@@ -15,8 +15,7 @@ This special live 2-hour event was held at Paris City Hall (Hôtel de Ville) on 
 
 We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both from the point of view of the noun (IP/License) and the verb (Communities of People).  
 
-Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf) on cooperation between organization using Open Source.  
-3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
+Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf) on cooperation between organization using Open Source.  3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
 
 - [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Baltimore, serving West Baltimore neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
 
@@ -25,7 +24,7 @@ Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empow
 - [Johns Hopkins University OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) - JHU is the largest research University in the United States, and was the first to launch an OSPO.  One of the primary missions of JHU OSPO is local community engagment and impact.
 
 ***
-![ospo++]({{ site.url }}/assets/images/blog/ParisSpreakers.jpg)
+![ospo++]({{ site.url }}/assets/images/blog/ParisSpreakers.jpg)    ![ospo++]({{ site.url }}/assets/images/blog/ParisSpreakers.jpg)
 
 ## Session Materials: 
 
