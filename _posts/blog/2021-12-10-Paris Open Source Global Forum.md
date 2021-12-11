@@ -6,7 +6,7 @@ tags: []
 date: 2021-12-10-1-20
 ---
 ## OSPO++ Policy, Governments & Agencies Working Group
-![ospo++]({{ site.url }}/assets/images/logo_sm.png)
+![ospo++]({{ site.url }}/assets/images/logo_sm.png) ![ospo++]({{ site.url }}/assets/images/logo_sm.png)
 
 ---
 
@@ -24,7 +24,7 @@ Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empow
 - [Johns Hopkins University OSPO](https://drcc.library.jhu.edu/open-source-programs-office/) - JHU is the largest research University in the United States, and was the first to launch an OSPO.  One of the primary missions of JHU OSPO is local community engagment and impact.
 
 ***
-![ospo++]({{ site.url }}/assets/images/blog/ParisSpreakers.jpg)    ![ospo++]({{ site.url }}/assets/images/blog/ParisSpreakers.jpg)
+![ospo++]({{ site.url }}/assets/images/blog/ParisSpreakers.jpg)
 
 ## Session Materials: 
 
