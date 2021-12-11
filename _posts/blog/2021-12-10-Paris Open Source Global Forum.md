@@ -9,8 +9,8 @@ date: 2021-12-10-1-20
 
 ---
 
-OSPO++ was honored to host a very special global event on Institutionalizing Open Source and our shared cooperation infrastructure. 
-This special live 2-hour event was held at Paris City Hall (Hôtel de Ville) on  November 8th 2021 as an exploration of the potential for OSPO++ to OSPO++ cooperation. This hybrid, in-person and virtual event, hosted distiguished speakers and discussion from around the world.  The event was part of the third "Paris Open Source Global Forum".
+OSPO++ was honored to host a very special global event on Institutionalizing Open Source and building new cooperation infrastructure. 
+This special live 2-hour event was held at Hôtel de Ville (Paris City Hall) on  November 8th 2021 exploring of the potential for OSPO to OSPO cooperation. This hybrid, in-person and virtual event, hosted distiguished speakers and discussion from around the world.  The event was part of the third "Paris Open Source Global Forum".
 
 We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both from the point of view of the noun (IP/License) and the verb (Communities of People).  
 
