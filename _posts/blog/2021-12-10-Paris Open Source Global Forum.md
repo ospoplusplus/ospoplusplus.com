@@ -15,7 +15,7 @@ This special live 2-hour event was held at Paris City Hall (Hôtel de Ville) on 
 
 We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both from the point of view of the noun (IP/License) and the verb (Communities of People).  
 
-Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf) on cooperation between organization using Open Source.  3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
+Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)[^1] on cooperation between organization using Open Source.  3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
 
 - [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Baltimore, serving West Baltimore neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
 
@@ -28,7 +28,7 @@ Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empow
 
 ## Session Materials: 
 
-[OSPO++ Case Study]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)  -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center
+[OSPO++ Case Study]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)[^1]  -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center
 
 [Full Session Video Recording](https://youtu.be/oGtCEPy2_-Y) (1h 41m)
 
@@ -79,5 +79,6 @@ Part 9:   [Case Study:  SFNC, City of Paris, Johns Hopkins University](https://y
 	* Torbin Green - Operations & Program Director of St. Francis Neighborhood Center
 	* Mark Patton - Senior Developer, Johns Hopkins University
 	* Jim Martino - Senior Developer, Johns Hopkins University
-	
-'Special thanks to Red Hat's Brian Proffitt, Bryan Behrenshausen, and Ruth Suehle, for interviewing stakeholders, telling the story, and putting the case-study together.'
+
+
+[^1]: Special thanks to Red Hat's Brian Proffitt, Bryan Behrenshausen, and Ruth Suehle, for interviewing stakeholders, telling the story, and putting the case-study together.
