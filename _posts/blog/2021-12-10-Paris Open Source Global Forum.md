@@ -12,13 +12,13 @@ date: 2021-12-10-1-20
 OSPO++ was honored to host a very special global event on Institutionalizing Open Source and building new cooperation infrastructure. 
 This special live 2-hour event was held at Hôtel de Ville (Paris City Hall) on  November 8th 2021 exploring and showcasing the potential for OSPO to OSPO cooperation. This hybrid, in-person and virtual event, hosted distiguished speakers and discussion from around the world.  The event was part of the third "Paris Open Source Global Forum".
 
-We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both from the point of view of the noun (IP/License) and the verb (Communities of People).  
+We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and the St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both from the point of view of the noun (IP/License) and the verb (Communities of People).  
 
 ![ospo++]({{ site.url }}/assets/images/blog/speakersorgs.png) 
 
 Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)[^1] on cooperation between organization using Open Source.  3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
 
-- [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Baltimore, serving West Baltimore neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
+- [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Wesdt Baltimore, serving neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
 
 - [City of Paris](https://opensource.paris.fr/) - Paris is the largest city in the European Union, serving 2.7 Million Parisians, across 300+ city services, from its open source Lutece platform, and empowered by mandates for open source voted in by its elected officials.
 
