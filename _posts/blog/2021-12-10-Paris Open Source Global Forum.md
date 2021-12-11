@@ -15,7 +15,7 @@ This special live 2-hour event was held at Paris City Hall (Hôtel de Ville) on 
 
 We at OSPO++, thank our partners City of Paris, Johns Hopkins University, and The St Francis Neighborhood Center of Baltimore for their leadership on Open Source, both the point of view of the noun (IP/License) and the verb (Communities of people).  We are excited to work with all our partners, and all stakeholders in the ecosystem toward building impactful open source cooperation infrastructure. 
 
-Accompanying the event is a [case-study report](http://www.cnn.com) on cooperation between organization using Open Source.  
+Accompanying the event is a [case-study report]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf) on cooperation between organization using Open Source.  
 3 institutions; 2 OSPOs; and 1 shared policy goal -- supporting local constituents with impactful services.
 
 - [St. Francis Neighborhood Center](https://www.stfranciscenter.org/) - Trusted community institution in Baltimore, serving West Baltimore neighborhood constituents for more then 50 years, embarking on an innovative Smart Neighborhood Center digital transformation.
@@ -29,9 +29,11 @@ Accompanying the event is a [case-study report](http://www.cnn.com) on cooperati
 
 ## Session Materials: 
 
-[OSPO++ Case Study](http://www.cnn.com)  -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center
+[OSPO++ Case Study]({{ site.url }}/assets/pdfs/empowering-communities-worlds-apart.pdf)  -  Empowering Communities Worlds Apart - Deploying open source at St. Francis Neighborhood Center
 
 [Full Session Video Recording](https://youtu.be/oGtCEPy2_-Y) (1h 41m)
+
+***
 
 Part 1:  [Welcome to OSPO++ Special Edition, Live from Paris City Hall](https://youtu.be/eP9c4ogMAXI) (7 mins)
 
