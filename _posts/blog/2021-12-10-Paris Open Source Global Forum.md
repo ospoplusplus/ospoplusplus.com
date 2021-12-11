@@ -80,4 +80,4 @@ Part 9:   [Case Study:  SFNC, City of Paris, Johns Hopkins University](https://y
 	* Mark Patton - Senior Developer, Johns Hopkins University
 	* Jim Martino - Senior Developer, Johns Hopkins University
 	
-> “Special thanks to Red Hat's Brian Proffitt, Bryan Behrenshausen, and Ruth Suehle, for interviewing stakeholders, telling the story, and putting the case-study together.”
+'Special thanks to Red Hat's Brian Proffitt, Bryan Behrenshausen, and Ruth Suehle, for interviewing stakeholders, telling the story, and putting the case-study together.'
