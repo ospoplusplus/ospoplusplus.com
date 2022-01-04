@@ -5,7 +5,7 @@ excerpt: "OSPO++ Events"
 search_omit: false
 ---
 
-OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of our talks from:
+OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of recent talks:
 
 * **OSPOCon EU - October 6, 2021**
   * **[The Political Potential of OSPOs - Clare Dillon (Mosslabs), Astor Nummelin Carlberg (Open Forum Europe)](https://sched.co/m4QV)**
@@ -17,6 +17,15 @@ OSPO++ members have both hosted and spoken at many conferences about Open Source
   * **[The OSPO as a Construct for Global Change - Danese Cooper, Nearform](https://sched.co/lAM5)**
 * **US National Academies of Science Engineering & Medicine - September 30, 2021**
   * **[Developing a Toolkit for Fostering Open Science Practices:  Proceedings of a Workshop Release Event](https://www.nationalacademies.org/event/09-30-2021/developing-a-toolkit-for-fostering-open-science-practices-proceedings-of-a-workshop-release-event)**
+
+## Seminars
+
+OSPO++ has been running the Impactful Open Source Seminar series this year, inviting expert speakers to come and share their knowledge of open source and how to best implement open source in universities, cities, and governments.
+
+[See more here](/seminars)
+
+## Complete Talk Listing
+
 * **United Nations Web TV - September 23, 2021**
   * **[United Nations - From Open Software to Open Culture - Opportunities…](https://media.un.org/en/asset/k1o/k1ovtqdxd9)**
 * **UN 76th Session - Side Conference Sept 2021**
