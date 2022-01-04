@@ -20,10 +20,11 @@ search_omit: true
 <div class="container">
   <div class="row text-left justify-content-md-center content intro-para">
     <div class="col-lg-12">
-      <p>OSPO++ is a network and a community of collaborative open source program offices in universities, governments, and civic institutions. We're building resources to help create OSPOs, actively engaging in discussions on how to best manage and
-        grow open source programs, and how to garden sustainable communities that last.</p>
+      <p>OSPO++ is a network and a community of collaborative open source program offices in universities, governments, and civic institutions. We're building resources to help create OSPOs, actively engaging in discussions on how to best manage and grow open source programs, and how to garden sustainable communities that last.</p>
 
-      <p>Interested in joining us? <a class="get-in-touch" href="mailto:info@mosslabs.io">Get in touch.</a> Register and Attend our <a class="get-in-touch" href="https://ospoplusplus.com/working-group/">Working Group Discussions </a></p>
+      <p>Register and attend our <a class="get-in-touch" href="https://ospoplusplus.com/working-group/">Working Group Discussions</a>.</p>
+
+      <p>More questions, or interested in joing us? <a class="get-in-touch" href="mailto:info@mosslabs.io">Get in touch.</a></p>
     </div>
   </div>
 </div>
