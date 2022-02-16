@@ -1,37 +1,44 @@
-<div class="navigation-wrapper">
-	<nav role="navigation" id="site-nav" >
-		<div class="container">
-			<div class="row">
-				<div class="col-md-10">
-			    <ul>
-			    {% for link in site.data.navigation %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.url %}
-				    {% endif %}
-				    <li>
-							<a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
-						</li>
-				    <li>
-							<a href="{{ domain }}/about">About</a>
-						</li>
-				    <li>
-							<a href="{{ domain }}/working-group">Community</a>
-						</li>
-				    <li>
-							<a href="{{ domain }}/events">Events</a>
-						</li>
-				    <li>
-							<a href="https://impactfulopensource.fireside.fm/" target="_blank">Podcast</a>
-						</li>
-				  {% endfor %}
-			    </ul>
-				</div>
-			</div>
-		</div>
-	</nav>
-</div><!-- /.navigation-wrapper -->
+<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="container">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      {% for link in site.data.navigation %}
+  	    {% if link.url contains 'http' %}
+  	        {% assign domain = '' %}
+  	        {% else %}
+  	        {% assign domain = site.url %}
+  	    {% endif %}
+  	    <li class="nav-item">
+  				<a class="nav-link" href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
+  			</li>
+  	    <li class="nav-item">
+  				<a class="nav-link" href="{{ domain }}/about">About</a>
+  			</li>
+  	    <!-- <li>
+  				<a href="{{ domain }}/working-group">Community</a>
+  			</li> -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Community
+          </a>
+          <ul class="dropdown-menu navbar-dark bg-dark" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="{{ domain }}/working-group">OSPO++ Community</a></li>
+            <li><a class="dropdown-item" href="{{ domain }}/policyroundtable">US OSS Policy</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="{{ domain }}/past-working-groups">Past working groups</a></li>
+          </ul>
+        </li>
+  	    <li class="nav-item">
+  				<a class="nav-link" href="{{ domain }}/events">Events</a>
+  			</li>
+  	  {% endfor %}
+      </ul>
+    </div>
+	</div>
+</nav>
 
 {% include browser-upgrade.html %}
 
