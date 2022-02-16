@@ -3,7 +3,18 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "start": "bundle exec jekyll serve"
+    "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
+    "build": "bundle exec jekyll build",
+    "fusv": "fusv _sass",
+    "stylelint": "stylelint \"**/*.{css,scss}\"",
+    "eslint": "eslint --report-unused-disable-directives .",
+    "markdownlint": "markdownlint-cli2 \"**/*.md\" \"!**/node_modules/**\" \"!**/vendor/**\"",
+    "lint": "npm-run-all --parallel --continue-on-error eslint stylelint fusv markdownlint vnu",
+    "vnu": "node ./scripts/vnu-jar.js",
+    "test": "npm run lint",
+    "serve": "bundle exec jekyll serve",
+    "svgo:base": "svgo --config=_svgo.config.js --recursive",
+    "svgo": "npm-run-all --parallel \"svgo:base -- --folder=_includes\" \"svgo:base -- --folder=assets/img\""
   },
   "repository": {
     "type": "git",
@@ -15,20 +26,24 @@
     "url": "https://github.com/RichardLitt/ospoplusplus.com/issues"
   },
   "homepage": "https://github.com/RichardLitt/ospoplusplus.com#readme",
-  "main": "gulpfile.js",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-changed": "^3.2.0",
-    "gulp-image-resize": "^0.13.0",
-    "gulp-imagemin": "^4.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^3.0.0",
-    "imagemin-pngcrush": "^5.1.0",
-    "imagemin-pngquant": "^5.0.0",
-    "gulp-concat": "^2.6.1"
-  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
-    "bootstrap": "^4.5.3"
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.7.0",
+    "find-unused-sass-variables": "^3.1.0",
+    "markdownlint-cli2": "^0.4.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^9.1.0",
+    "postcss-scss": "^4.0.3",
+    "stylelint": "^14.3.0",
+    "stylelint-config-twbs-bootstrap": "^3.0.1",
+    "svgo": "^2.8.0",
+    "vnu-jar": "21.10.12"
+  },
+  "engines": {
+    "node": ">=12"
   }
 }
