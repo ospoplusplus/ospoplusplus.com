@@ -40,18 +40,12 @@ body {
 
 .color {
   background: linear-gradient(45deg, blue, pink) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
 .logos {
   background-color: white;
   // background: linear-gradient(55deg, pink, white) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
   img {
     padding: 15px;
@@ -81,21 +75,6 @@ h2 {
 
 p, .entry-content li  {
   font-size: 1.4rem;
-}
-
-.navigation-wrapper {
-  background-color: #212529;
-  nav ul {
-    padding-top: 10px;
-    padding-left: 0px;
-    list-style: none;
-    li {
-      display:inline;
-      &:not(:first-child) {
-        padding-left: 20px;
-      }
-    }
-  }
 }
 
 a {
@@ -168,12 +147,6 @@ a {
     color: gray;
     font-size: 1em;
     line-height: 1em;
-  }
-}
-
-#site-nav {
-  a {
-    color: white;
   }
 }
 

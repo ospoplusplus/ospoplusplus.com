@@ -136,14 +136,10 @@ background-clip : padding-box; }
 
 // @include box-shadow(HORIZONTAL VERTICAL BLUR COLOR))
 @mixin box-shadow($shadow: 0 1px 3px rgba(0,0,0,.25)) {
--webkit-box-shadow : $shadow;
--moz-box-shadow : $shadow;
 box-shadow : $shadow; }
 
 // @include drop-shadow(HORIZONTAL, VERTICAL, BLUR, ALPHA);
 @mixin drop-shadow($x-axis: 0, $y-axis: 1px, $blur: 2px, $alpha: 0.1) {
--webkit-box-shadow : $x-axis $y-axis $blur rgba(0, 0, 0, $alpha);
--moz-box-shadow : $x-axis $y-axis $blur rgba(0, 0, 0, $alpha);
 box-shadow : $x-axis $y-axis $blur rgba(0, 0, 0, $alpha); }
 
 // @include text-shadow();
@@ -183,7 +179,8 @@ overflow : auto; }
 -webkit-user-select : $select;
 -moz-user-select : $select;
 -o-user-select : $select;
-user-select : $select; }
+-ms-user-select : $select;
+    user-select : $select; }
 
 // Hidden but available to speaking browsers
 @mixin visuallyhidden() { 
