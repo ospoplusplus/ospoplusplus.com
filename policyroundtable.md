@@ -6,7 +6,7 @@ excerpt: "The Policy Roundtable is a neutral, non-partisan, group of experts in 
 search_omit: true
 ---
 
-The Policy Roundtable is a neutral, non-partisan, group of experts in different fields focused on working through the policy implications of Open Source in the US, hosted by the Institute of Applied Open Source at Johns Hopkins University.  Roundtable participants come from different sectors, academic backgrounds and affiliations, bridging both policy research, development, and practice.
+The Policy Roundtable is a neutral, non-partisan, group of experts in different fields focused on working through the policy implications of Open Source in the US, hosted by the Institute of Applied Open Source at Johns Hopkins University.  Roundtable participants come from different sectors, academic backgrounds and affiliations, bridging both policy research, development, and practice..
 
 Open approaches and especially open source software are growing in popularity. This growth has already reconfigured entire industries and promises to continue to be a disrupting force across technology and society.  The Policy Roundtable aims to foster discussion about the policy implications of this explosion in open approaches. With a particular focus on a few key areas described below, we want to see, shape, and prepare for an increasingly open future.
 
