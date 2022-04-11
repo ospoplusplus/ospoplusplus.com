@@ -15,7 +15,7 @@ June 8, 2022 in Washington DC.
 - US Digital Infrastructure 
 - US Public Policy
 
-# What would you put into a US National OSPO?
+## What would you put into a US National OSPO?
 
 Please join the US OSS Policy Assembly on **June 8, 2022 in Washington DC** as we look at Open Source infrastructure needs to support US Public Policy objectives. 
 
