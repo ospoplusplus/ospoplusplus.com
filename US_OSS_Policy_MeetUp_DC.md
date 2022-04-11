@@ -11,6 +11,8 @@ excerpt: "OSS_Policy_Meetup_DC"
 *US Digital Infrastructure 
 *US Public Policy
 
+![alt text](https://ospoplusplus.com/assets/images/InfrastructureUSOSPO.png "Logo Title Text 1")
+
 Please join the US OSS Policy Assembly on June 8, 2022 in Washington DC as we look at Open Source infrastructure needs to support US Public Policy objectives.  
 
 Rules:  It is an Unconference.  We/You set the specific topics we discuss.
@@ -40,5 +42,6 @@ US Policy Objective Examples:
 [Contact]  (Travel funds, speaker, questions)
 
 <img src="{{ ASSET_PATH }}/assets/images/InfrastructureUSOSPO.png" />
+
 Test Page 2
 
