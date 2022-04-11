@@ -9,7 +9,7 @@ excerpt: "OSS_Policy_Meetup_DC"
 
 Open Source Infrastructure as US Public Policy Infrastructure<br>
 June 8, 2022 in Washington DC
-<img src="{{ ASSET_PATH }}/assets/images/register.webp" style="float:left;" />
+<img src="{{ ASSET_PATH }}/assets/images/register.webp" style="float:left;" width="25"/>
 
 - US OSPO
 - US Digital Infrastructure 
