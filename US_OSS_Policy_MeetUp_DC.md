@@ -17,6 +17,16 @@ June 8, 2022 in Washington DC.
 
 Please join the US OSS Policy Assembly on **June 8, 2022 in Washington DC** as we look at Open Source infrastructure needs to support US Public Policy objectives.  
 
+**US Policy Objective Examples:**<br>
+- Securing the Software Supply Chain
+- Green Energy Transition
+- Digital Cities and Public Sector Digital Transformation
+- R&D Tech Translation
+- Digital Diplomacy
+- Economic Development
+- Scaled Innovation Consumption and Dissemination
+- Public Health
+
 **Rules:**  <br>
 It is an Unconference.  We/You set the specific topics we discuss.<br>
 
@@ -31,17 +41,14 @@ Talks, and hybrid discussion. (Virtual & In-person)<br>
 OSS Infrastructure to support US Policy Objectives <br>
 Policy Group Work Sessions (In-person)<br>
 
-**US Policy Objective Examples**<br>
-- Securing the Software Supply Chain
-- Green Energy Transition
-- Digital Cities and Public Sector Digital Transformation
-- R&D Tech Translation
-- Digital Diplomacy
-- Economic Development
-- Scaled Innovation Consumption and Dissemination
-- Public Health
+**Evening:** 	<br>
+Cocktail Reception, details coming soon.
 
-[Register Here]
+**Contact:** <br>
+Logistics questions, travel fund requests, Unconference topic requests; please send them to the facilitators Jacob Green (<a href="mailto:jacob.green@mosslabs.io">jacob.green@mosslabs.io</a>) and James Vasile (<a href="mailto:james@opentechstrategies.com">james@opentechstrategies.com</a>)
+
+<a href="https://www.eventbrite.com/preview?eid=180207494467/"><img src="{{ ASSET_PATH }}/assets/images/register.png" width="100"/></a>
+
 [Logistics]
 [Contact]  (Travel funds, speaker, questions)
 
