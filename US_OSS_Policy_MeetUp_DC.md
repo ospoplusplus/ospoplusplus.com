@@ -9,13 +9,13 @@ excerpt: "OSS_Policy_Meetup_DC"
 
 Open Source Infrastructure as US Public Policy Infrastructure<br>
 June 8, 2022 in Washington DC.
-<a href="https://www.eventbrite.com/preview?eid=180207494467/"><img src="{{ ASSET_PATH }}/assets/images/register.png" width="100"/></a>
+<a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987"><img src="{{ ASSET_PATH }}/assets/images/register.png" width="100"/></a>
 
 - US OSPO
 - US Digital Infrastructure 
 - US Public Policy
 
-## **What would you put into a US National OSPO?**
+## **Defining the Objectives of US National OSPO**
 
 Please join the US OSS Policy Assembly on **June 8, 2022 in Washington DC** as we look at Open Source infrastructure needs to support US Public Policy objectives. <br>
 
@@ -50,5 +50,5 @@ Cocktail Reception, details coming soon.
 **Contact:** <br>
 Logistics questions, travel fund requests, Unconference topic requests; please send them to the facilitators Jacob Green (<a href="mailto:jacob.green@mosslabs.io">jacob.green@mosslabs.io</a>) and James Vasile (<a href="mailto:james@opentechstrategies.com">james@opentechstrategies.com</a>)
 
-<a href="https://www.eventbrite.com/preview?eid=180207494467/"><img src="{{ ASSET_PATH }}/assets/images/register.png" width="100"/></a>
+<a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987"><img src="{{ ASSET_PATH }}/assets/images/register.png" width="100"/></a>
 
