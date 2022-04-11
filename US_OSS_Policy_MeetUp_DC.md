@@ -7,8 +7,9 @@ excerpt: "OSS_Policy_Meetup_DC"
 
 <img src="{{ ASSET_PATH }}/assets/images/InfrastructureUSOSPO.png" style="float:right;max-width:300px;" />
 
-### Open Source Infrastructure as US Public Policy Infrastructure**<br>
-#### June 8, 2022 in Washington DC
+Open Source Infrastructure as US Public Policy Infrastructure<br>
+June 8, 2022 in Washington DC
+<img src="{{ ASSET_PATH }}/assets/images/register.webp" style="float:left;" />
 
 - US OSPO
 - US Digital Infrastructure 
@@ -28,14 +29,14 @@ Policy Objectives & Requirements for US National Open Source Program Office
 Policy Group Work Sessions (In-person)
 
 **US Policy Objective Examples**<br>
-	1. - Securing the Software Supply Chain
-	2. - Green Energy Transition
-	3. - Digital Cities and Public Sector Digital Transformation
-	4. - R&D Tech Translation
-	5. - Digital Diplomacy
-	6. - Economic Development
-	7. - Scaled Innovation Consumption and Dissemination
-	8.- Public Health
+- Securing the Software Supply Chain
+- Green Energy Transition
+- Digital Cities and Public Sector Digital Transformation
+- R&D Tech Translation
+- Digital Diplomacy
+- Economic Development
+- Scaled Innovation Consumption and Dissemination
+- Public Health
 
 [Register Here]
 [Logistics]
