@@ -31,7 +31,7 @@ Please join the US OSS Policy Assembly on **June 8, 2022 in Washington DC** as w
 It is an Unconference.  We/You set the specific topics we discuss.<br>
 
 **Output:**  <br>
-Policy Objectives & Requirements for US National Open Source Program Office
+Draft Policy Objectives & Requirements for US National Open Source Program Office
 
 **Morning:**  <br>  	
 What are the US Policy Objectives <br>
