@@ -6,4 +6,6 @@ excerpt: "OSS_Policy_Meetup_DC"
 ---
 
 Test Page
+<img src="{{ ASSET_PATH }}/assets/images/InfrastructureUSOSPO.png" style="float:right;max-width:300px;" />
+Test Page 2
 
