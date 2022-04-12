@@ -5,9 +5,9 @@ title: Open Tech After Work
 excerpt: "Open Tech After Work"
 ---
 
-<a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987"><img src="{{ ASSET_PATH }}/assets/images/OTAW.png" style="float:right;max-width:300px;" /></a>
+<a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987"><img src="{{ ASSET_PATH }}/assets/images/OTAW.png" style="float:right;max-width:400px;" /></a>
 
-OSPO++ is please to come together with Open Source Ecosystem partners to welcome Big-Tent of Open Technologies communities & individuals, companies & organization in geograohic regions to Socialize Together!
+OSPO++ is please to come together with Open Source Ecosystem partners to welcome the Big-Tent of Open Technologies communities & individuals, companies & organization in geograohic regions to Socialize Together!
 
 ## Events
 
