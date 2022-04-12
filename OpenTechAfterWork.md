@@ -20,21 +20,21 @@ April 26, 2022   Brussels, Belgium<br>
       
   <div class="col-6 col-md-3">
     <!-- <a href="https://www.mosslabs.io/" target="_blank"> -->
-  <img src="assets/images/members/moss labs black.png" title="MOSS Labs" class="align-middle" />
+  <img src="{{ ASSET_PATH }}/assets/images/members/moss labs black.png" title="MOSS Labs" class="align-middle" />
   </div>
   <div class="col-6 col-md-3">
-    <img src="assets/images/members/GitHub_Logo.png" title="GitHub" class="align-middle" />
+    <img src="{{ ASSET_PATH }}/assets/images/members/GitHub_Logo.png" title="GitHub" class="align-middle" />
   </div>
   <div class="col-6 col-md-3">
     <!-- <a href="https://openforumeurope.org/" target="_blank"> -->
-    <img src="assets/images/members/logo-ofe.png" title="Open Forum Europe" class="align-middle" />
+    <img src="{{ ASSET_PATH }}/assets/images/members/logo-ofe.png" title="Open Forum Europe" class="align-middle" />
   </div>
   <div class="col-6 col-md-3">
-    <img src="assets/images/members/sheridan.png" title="Johns Hopkins Libraries" class="align-middle" />
+    <img src="{{ ASSET_PATH }}/assets/images/members/sheridan.png" title="Johns Hopkins Libraries" class="align-middle" />
   </div>
   <div class="col-6 col-md-3">
   <!-- <a href="https://www.sei.cmu.edu/" target="_blank"> -->
-    <img src="assets/images/members/SEI.webp" title="SEI" class="align-middle" />
+    <img src="{{ ASSET_PATH }}/assets/images/members/SEI.webp" title="SEI" class="align-middle" />
   </div>
 </div>
 
