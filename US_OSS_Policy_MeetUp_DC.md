@@ -5,7 +5,7 @@ title: US OSS Policy Meetup
 excerpt: "OSS_Policy_Meetup_DC"
 ---
 
-<img src="{{ ASSET_PATH }}/assets/images/InfrastructureUSOSPO.png" style="float:right;max-width:300px;" />
+<a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987"><img src="{{ ASSET_PATH }}/assets/images/InfrastructureUSOSPO.png" style="float:right;max-width:300px;" /></a>
 
 Open Source Infrastructure as US Public Policy Infrastructure<br>
 June 8, 2022 in Washington DC.
