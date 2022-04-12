@@ -22,6 +22,7 @@ Please join the US OSS Policy Assembly as we look at Open Source infrastructure 
 
 **US Policy Objective Examples:**<br>
 - Securing the Software Supply Chain
+- Open Source Capacity (Talent & Education, Funding, Systems)
 - Green Energy Transition
 - Digital Cities and Public Sector Digital Transformation
 - R&D Tech Translation
