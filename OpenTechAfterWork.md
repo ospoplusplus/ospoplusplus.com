@@ -36,6 +36,10 @@ April 26, 2022   Brussels, Belgium<br>
   <!-- <a href="https://www.sei.cmu.edu/" target="_blank"> -->
     <img src="{{ ASSET_PATH }}/assets/images/members/SEI.webp" title="SEI" class="align-middle" />
   </div>
+   <div class="col-6 col-md-3">
+  <!-- <a href="https://www.sei.cmu.edu/" target="_blank"> -->
+    <img src="{{ ASSET_PATH }}/assets/images/members/opentechstrategies.png" title="SEI" class="align-middle" />
+  </div>
 </div>
 
 
