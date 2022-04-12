@@ -17,7 +17,7 @@ June 8, 2022 in Washington DC.
 
 ## **Defining the Objectives of US National OSPO**
 
-Please join the US OSS Policy Assembly on **June 8, 2022 in Washington DC** as we look at Open Source infrastructure needs to support US Public Policy objectives. <br>
+Please join the US OSS Policy Assembly as we look at Open Source infrastructure needs to support US Public Policy objectives. <br>
 
 
 **US Policy Objective Examples:**<br>
@@ -30,11 +30,11 @@ Please join the US OSS Policy Assembly on **June 8, 2022 in Washington DC** as w
 - Scaled Innovation Consumption and Dissemination
 - Public Health
 
-**Rules:**  <br>
-It is an Unconference.  We/You set the specific topics we discuss.<br>
-
 **Output:**  <br>
 Draft Policy Objectives & Requirements for US National Open Source Program Office
+
+**Rules:**  <br>
+It is an Unconference.  We/You set the specific topics we discuss.<br>
 
 **Morning:**  <br>  	
 What are the US Policy Objectives <br>
