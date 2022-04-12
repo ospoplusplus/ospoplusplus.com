@@ -11,8 +11,8 @@ OSPO++ is please to come together with Open Source Ecosystem partners to welcome
 
 ## Events
 
-<a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987">June 8, 2022     Washington, DC</a><br>
-<a href="https://openforumeurope.org/event/open-tech-afterwork/">April 26, 2022   Brussels, Belgium</a><br>
+*<a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987">June 8, 2022     Washington, DC</a><br>
+*<a href="https://openforumeurope.org/event/open-tech-afterwork/">April 26, 2022   Brussels, Belgium</a><br>
 
 ## Partners
 <div class="logos">
