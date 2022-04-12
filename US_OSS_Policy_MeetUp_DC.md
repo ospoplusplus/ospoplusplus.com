@@ -47,8 +47,11 @@ Policy Group Work Sessions (In-person)<br>
 **Evening:** 	<br>
 Cocktail Reception, details coming soon.
 
+**Logistics:** 	<br>
+Details of the event are available in the US OSS Policy Roundtable mailinglist, or contact us directly.  
+
 **Contact:** <br>
-Logistics questions, travel fund requests, Unconference topic requests; please send them to the facilitators Jacob Green (<a href="mailto:jacob.green@mosslabs.io">jacob.green@mosslabs.io</a>) and James Vasile (<a href="mailto:james@opentechstrategies.com">james@opentechstrategies.com</a>)
+Logistics questions & recommendations, travel fund requests, Unconference topic requests; please send them to the facilitators Jacob Green (<a href="mailto:jacob.green@mosslabs.io">jacob.green@mosslabs.io</a>) and James Vasile (<a href="mailto:james@opentechstrategies.com">james@opentechstrategies.com</a>)
 
 <a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987"><img src="{{ ASSET_PATH }}/assets/images/register.png" width="100"/></a>
 
