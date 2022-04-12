@@ -9,12 +9,16 @@ excerpt: "Open Tech After Work"
 
 OSPO++ is please to come together with Open Source Ecosystem partners to welcome Big-Tent of Open Technologies communities & individuals, companies & organization in geograohic regions to Socialize Together!
 
-#Events
+## Events
 
-June 8, 2022     Washington, DC
-April 26, 2022   Brussels, Belgium
+June 8, 2022     Washington, DC<br>
+April 26, 2022   Brussels, Belgium<br>
 
-#Partners
+## Partners
+<div class="logos">
+  <div class="container content">
+    <div class="row text-center justify-content-md-center">
+      
   <div class="col-6 col-md-3">
     <!-- <a href="https://www.mosslabs.io/" target="_blank"> -->
   <img src="assets/images/members/moss labs black.png" title="MOSS Labs" class="align-middle" />
