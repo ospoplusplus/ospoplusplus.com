@@ -5,13 +5,13 @@ excerpt: "OSPO++ Events"
 search_omit: false
 ---
 
-# Upcoming Events:
+## Upcoming Events:
 <a href="https://www.eventbrite.com/e/us-ospo-us-policy-objectives-digital-infrastructure-tickets-318956335987">"Lets build a US OSPO:  The Workshop"<a> (June 8, 2022 | Washington, DC | In-Person)<br>
 <a href="https://www.eventbrite.com/e/open-tech-after-work-tickets-319130416667"> "Open Tech After Work - DC happy Hour" </a>
 (June 8, 2022 | Washington, DC | In-Person)<br>
  
 
-# Prior Events:
+## Prior Events:
 
 OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of recent talks:
 
