@@ -5,6 +5,11 @@ excerpt: "OSPO++ Events"
 search_omit: false
 ---
 
+# Upcoming Events:
+
+
+# Prior Events:
+
 OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of recent talks:
 
 * **OSPOCon EU - October 6, 2021**
