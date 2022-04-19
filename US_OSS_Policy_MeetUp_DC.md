@@ -38,15 +38,15 @@ Draft Policy Objectives & Requirements for US National Open Source Program Offic
 It is an Unconference.  We/You set the specific topics we discuss.<br>
 
 **Morning:**  <br>  	
-What are the US Policy Objectives <br>
-Talks, and hybrid discussion. (Virtual & In-person)<br>
+What are the US Policy Objectives? <br>
+Talks & Discussion. (In-person)<br>
 
 **Afternoon:** 	<br>
 OSS Infrastructure to support US Policy Objectives <br>
 Policy Group Work Sessions (In-person)<br>
 
 **Evening:** 	<br>
-Cocktail Reception, details coming soon.
+Cocktail Reception <a href="https://www.eventbrite.com/e/open-tech-after-work-tickets-319130416667"><img src="{{ ASSET_PATH }}/assets/images/register.png" width="100"/></a> 
 
 **Logistics:** 	<br>
 Details of the event are available in the US OSS Policy Roundtable mailinglist, or contact us directly.  
