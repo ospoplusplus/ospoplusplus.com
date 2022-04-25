@@ -14,10 +14,12 @@ June 8, 2022 in Washington DC.
 - US OSPO
 - US Digital Infrastructure 
 - US Public Policy
+- Part strcutured - Part Unconference
 
-## **Defining the Objectives of US National OSPO**
+## **Exploring a US OSPO: The Workshop**  Defining the Objectives of US National OSPO**Exploring a US OSPO: The Workshop
 
 Please join the US OSS Policy Assembly as we look at Open Source infrastructure needs to support US Public Policy objectives. <br>
+We will defin explore the public policy objectives of US and the infratructure that might therefor be needed.
 
 
 **US Policy Objective Examples:**<br>
