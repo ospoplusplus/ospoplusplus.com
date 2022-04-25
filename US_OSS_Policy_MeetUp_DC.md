@@ -17,7 +17,7 @@ Meetup of the <a href="https://ospoplusplus.com/policyroundtable/"> US Open Sour
 - US Public Policy
 - Part strcutured - Part Unconference
 
-## **Exploring a US OSPO: The Workshop**  Defining the Objectives of US National OSPO**Exploring a US OSPO: The Workshop
+## **Exploring a US OSPO: The Workshop**  <br>
 
 Please join the US OSS Policy Assembly as we look at Open Source infrastructure needs to support US Public Policy objectives. <br>
 We will defin explore the public policy objectives of US and the infratructure that might therefor be needed.
