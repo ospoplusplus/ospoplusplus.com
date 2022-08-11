@@ -1,6 +1,28 @@
 # OSPO++ Website
 
-WIP.
+## Requirements
+
+- RVM. Highly encouraged, as this is a versioning system for ruby. https://rvm.io/
+- Ruby
+- Bundle. `bundle -v`
+- Nvm (node version manager) 
+- Node
+- npm (should come bundled with npm). 
+
+## To run
+
+```
+npm install # This will install your local deps
+bundle install
+bundle exec jeql serve
+```
+
+Or:
+
+```
+npm scripts build #This will build it, but not display
+npm scripts serve # This will show you the site locally at localhost:4000 or something similar.
+```
 
 ## Contribute
 

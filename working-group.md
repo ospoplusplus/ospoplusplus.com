@@ -10,7 +10,7 @@ The center of OSPO++ is our working groups - recurring meetings where we share h
 
 Over the past two years, we've held more than 500 hours of collective mind-sharing on the topic of OSPOs and how to effectively bring open source to our institutions.
 
-Today, we have four different major working groups, focusing on:
+We have four different major working groups, focusing on:
 
 - Universities and higher education institutions
 - Cities and governments
@@ -25,18 +25,7 @@ We post about how to join on our mailing list.
 
 - The EU OSS network meets quarterly, in person, at a different European host city. Get in touch to learn more.
 
-- 'Universities and Academia' and 'Cities and Governments' each generally meet once monthly on Thursdays. 
-
-### December 9 - 'Universities and Academia' and 'Cities and Governments'
-  - Topic:  2021 FOSS OSPO Community Closing Happy Hours
-  - Time:   3pm CET / 9am EST / 6am PST     
-          (AND)
-          6pm CET / 12pm EST / 9am PST
-        
-  - Description:   As 2021 roles to a close, we invite all those in the OSPO ecosystem, that we have interacted with virtually, in-person or have yet to meet, to come together, stop by and share in the group discussion, announce & celebrate your and other's FOSS wins together, have a breakout chat with a friend, and join us for a drink.   
-                Morning Tea?
-                Afternoon Coffee?
-                Afterwork Beer or Wine?
+- 'Universities and Academia' and 'Cities and Governments' each generally meet once monthly on Thursdays.
 
 ### Where:
 
