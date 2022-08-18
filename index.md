@@ -95,6 +95,9 @@ search_omit: true
         <img src="assets/images/members/RIT.png" title="RIT" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
+        <img src="assets/images/members/slu_logo.png" title="Saint Louis University" class="align-middle" />
+      </div>
+      <div class="col-6 col-md-3">
         <img src="assets/images/members/sheridan.png" title="Johns Hopkins Libraries" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
