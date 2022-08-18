@@ -49,6 +49,9 @@ search_omit: true
         <img src="assets/images/members/brandeis-logo-stacked-seal-blue-digital (1).png" title="Brandeis" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
+        <img src="assets/images/members/CMU_logo.jpg" title="Carnegie Mellon University" class="align-middle" />
+      </div>
+      <div class="col-6 col-md-3">
         <img src="assets/images/members/CROSS-logo.png" title="CROSS" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
