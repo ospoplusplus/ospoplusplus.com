@@ -3,7 +3,7 @@
 ## Requirements
 
 - RVM. Highly encouraged, as this is a versioning system for ruby. https://rvm.io/
-- Ruby
+- Ruby 2.6
 - Bundle. `bundle -v`
 - Nvm (node version manager) 
 - Node
@@ -14,7 +14,7 @@
 ```
 npm install # This will install your local deps
 bundle install
-bundle exec jeql serve
+bundle exec jekyll serve
 ```
 
 Or:
