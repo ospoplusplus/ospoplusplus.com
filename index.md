@@ -35,89 +35,84 @@ search_omit: true
       <div class="col-sm-12">
         <p class="rainbow">Current OSPO++ Members</p>
       </div>
-
+      
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/ApereoFoundationLogo.png" title="Apereo Foundation" class="align-middle" />
+        <img src="assets/images/members/alfred_sloan_logo.png" title="Alfred P. Sloan Foundation" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/baskin-logo-new.jpg" title="BASKIN CROSS" class="align-middle" />
+        <img src="assets/images/members/apereo_foundation_logo.png" title="Apereo Foundation" class="align-middle" />
+      </div>
+      <div class="col-6 col-md-3">
+        <img src="assets/images/members/baskin_enginnering_logo.jpg" title="Baskin Engineering UCSC" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
         <img src="assets/images/members/bitergia_logo_text.svg" title="Bitergia" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/brandeis-logo-stacked-seal-blue-digital (1).png" title="Brandeis" class="align-middle" />
+        <img src="assets/images/members/brandeis_logo.png" title="Brandeis" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/CMU_logo.jpg" title="Carnegie Mellon University" class="align-middle" />
+        <img src="assets/images/members/cmu_logo.jpg" title="Carnegie Mellon University" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/CROSS-logo.png" title="CROSS" class="align-middle" />
+        <img src="assets/images/members/cross_logo.png" title="CROSS" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <!-- <a href="https://www.eclipse.org/" target="_blank"> -->
-        <img src="assets/images/members/eclipse_foundation_logo/EF_GRY-OR_jpg.jpg" title="Eclipse Foundation" class="align-middle" />
+        <img src="assets/images/members/eclipse_foundation_logo.png" title="Eclipse Foundation" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/fauen.png" title="Friedrich-Alexander Universität Erlangen-Nürnberg" class="align-middle" />
+        <img src="assets/images/members/fau_logo.png" title="Friedrich-Alexander Universität Erlangen-Nürnberg" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/GitHub_Logo.png" title="GitHub" class="align-middle" />
+        <img src="assets/images/members/github_logo.png" title="GitHub" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/ISC logo on transparent.jpg" title="InnerSource Commons" class="align-middle" />
+        <img src="assets/images/members/innersource_commons_logo.jpg" title="InnerSource Commons" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/Lero_Logo 270x226.jpg" title="LERO" class="align-middle" />
+        <img src="assets/images/members/johns_hopkins_university_logo.png" title="Johns Hopkins Libraries" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/longsight.png" title="Longsight" class="align-middle" />
+        <img src="assets/images/members/lero_logo.jpg" title="LERO" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <!-- <a href="https://www.mosslabs.io/" target="_blank"> -->
-        <img src="assets/images/members/moss labs black.png" title="MOSS Labs" class="align-middle" />
+        <img src="assets/images/members/longsight_logo.png" title="Longsight" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/oasisopen.svg" title="Oasis Open" class="align-middle" />
+        <img src="assets/images/members/moss_labs_logo.png" title="MOSS Labs" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/OpenCommons.jpg" title="Open Commons" class="align-middle" />
+        <img src="assets/images/members/oasis_open_logo.svg" title="Oasis Open" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <!-- <a href="https://openforumeurope.org/" target="_blank"> -->
-        <img src="assets/images/members/logo-ofe.png" title="Open Forum Europe" class="align-middle" />
+        <img src="assets/images/members/ofe_logo.png" title="Open Forum Europe" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/Paris-escolhe-sua-nova-identidade-visual (1).png" title="Paris" class="align-middle" />
+        <img src="assets/images/members/open_commons_logo.jpg" title="Open Commons" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/PSU_logo_transparent-1.png" title="PSU" class="align-middle" />
+        <img src="assets/images/members/paris_logo.png" title="Paris" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <!-- <a href="https://www.rit.edu/research/open" target="_blank"> -->
-        <img src="assets/images/members/RIT.png" title="RIT" class="align-middle" />
+        <img src="assets/images/members/psu_logo.png" title="PSU" class="align-middle" />
+      </div>
+      <div class="col-6 col-md-3">
+        <img src="assets/images/members/rit_logo.png" title="RIT" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
         <img src="assets/images/members/slu_logo.png" title="Saint Louis University" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/sheridan.png" title="Johns Hopkins Libraries" class="align-middle" />
+        <img src="assets/images/members/stsci_logo.png" title="Space Telescope Science Institute" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/Logo-1B-SMALL-Gold-Blue.png" title="Alfred P. Sloan Foundation" class="align-middle" />
+        <img src="assets/images/members/trinity_college_logo.jpg" title="Trinity College Dublin" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/st_logo.png" title="Space Telescope Science Institute" class="align-middle" />
+        <img src="assets/images/members/ubc_logo.png" title="UBC" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/Trinity_Main_logo.jpg" title="Trinity College Dublin" class="align-middle" />
-      </div>
-      <div class="col-6 col-md-3">
-        <!-- <a href="https://www.ubc.ca/" target="_blank"> -->
-        <img src="assets/images/members/ubc.png" title="UBC" class="align-middle" />
-      </div>
-      <div class="col-6 col-md-3">
-        <img src="assets/images/members/Urban Systems.png" title="" class="align-middle" />
+        <img src="assets/images/members/urban_systems_logo.png" title="" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
         <img src="assets/images/members/university_of_vermont_logo.png" title="University of Vermont" class="align-middle" />
