@@ -70,7 +70,7 @@ search_omit: true
         <img src="assets/images/members/innersource_commons_logo.jpg" title="InnerSource Commons" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/johns_hopkins_university_logo.png" title="Johns Hopkins Libraries" class="align-middle" />
+        <img src="assets/images/members/jhu_library_sheridan.png" title="Johns Hopkins Libraries" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
         <img src="assets/images/members/lero_logo.jpg" title="LERO" class="align-middle" />
