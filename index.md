@@ -115,7 +115,7 @@ search_omit: true
         <img src="assets/images/members/urban_systems_logo.png" title="" class="align-middle" />
       </div>
       <div class="col-6 col-md-3">
-        <img src="assets/images/members/eaafb-images_uwm-university-of-vermont-logo.jpg" title="UVM" class="align-middle" />
+        <img src="assets/images/members/university_of_vermont_logo.png" title="University of Vermont" class="align-middle" />
       </div>
     </div>
     <div class="row text-center justify-content-md-center" id="posts-list">
