@@ -41,7 +41,7 @@ Anyone who currently runs an OSPO, inside champions looking to build an OSPO in 
 
 ### How?
 
-Want to join in? <a href="mailto:info@mosslabs.io">Get in touch.</a>
+Want to join in? <a href="mailto:info@ospoplusplus.org">Get in touch.</a>
 
 ### Past Working Groups
 

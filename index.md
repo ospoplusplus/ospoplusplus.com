@@ -24,7 +24,7 @@ search_omit: true
 
       <p>Register and attend our <a class="get-in-touch" href="https://ospoplusplus.com/working-group/">Working Group Discussions</a>.</p>
 
-      <p>More questions, or interested in joing us? <a class="get-in-touch" href="mailto:info@mosslabs.io">Get in touch.</a></p>
+      <p>More questions, or interested in joing us? <a class="get-in-touch" href="mailto:info@ospoplusplus.org">Get in touch.</a></p>
     </div>
   </div>
 </div>
