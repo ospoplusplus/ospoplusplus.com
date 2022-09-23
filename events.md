@@ -19,7 +19,7 @@ search_omit: false
 <a href="https://www.eventbrite.com/e/412746093677"> "Open Source Education and Skills" </a>
 (September 22, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 
-## Recent Talks:
+## Other Talks:
 
 OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of recent talks:
 
