@@ -7,8 +7,6 @@ search_omit: false
 
 ## Upcoming Events:
 
-<a href="https://www.eventbrite.com/e/412746093677"> "Open Source Education and Skills" </a>
-(September 22, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/412749985317"> "Setting Up University OSPOS" </a>
 (October 06, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/412753746567"> "Open Source Security and Open Research" </a>
@@ -17,6 +15,11 @@ search_omit: false
 (December 01, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 
 ## Prior Events:
+
+<a href="https://www.eventbrite.com/e/412746093677"> "Open Source Education and Skills" </a>
+(September 22, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
+
+## Other Talks:
 
 OSPO++ members have both hosted and spoken at many conferences about Open Source Program Offices. Here is a selection of recent talks:
 
