@@ -7,6 +7,8 @@ search_omit: false
 
 ## Upcoming Events:
 
+OSPO++ Skills Workshop <a href="mailto: info@ospoplusplus.org"> Email us for an invite </a>
+(October 03, 2022 | 11pm ET / 8am PT / 5pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/412749985317"> "Setting Up University OSPOS" </a>
 (October 06, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/412753746567"> "Open Source Security and Open Research" </a>
