@@ -12,7 +12,7 @@ search_omit: false
 <a href="https://www.eventbrite.com/e/412753746567"> "Open Source Security and Open Research" </a>
 (November 03, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/412756575027"> "Semesters of Code" </a>
-(December 01, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
+(November 30, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 
 ## Prior Events:
 
