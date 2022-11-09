@@ -7,8 +7,6 @@ search_omit: false
 
 ## Upcoming Events:
 
-<a href="https://www.eventbrite.com/e/412753746567"> "Open Source Security" </a>
-(November 03, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/412756575027"> "Semesters of Code" </a>
 (November 30, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/ospo-posse-overview-tickets-449451681077"> "OSPO++ POSSE Overview" </a>
@@ -16,6 +14,8 @@ search_omit: false
 
 ## Prior Events:
 
+a href="https://www.eventbrite.com/e/412753746567"> "Open Source Security" </a>
+(November 03, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 <a href="https://www.eventbrite.com/e/412749985317"> "Setting Up University OSPOS" </a>
 (October 06, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 OSPO++ Skills Workshop (October 03, 2022 | 11pm ET / 8am PT / 5pm CET | Online)<br>
