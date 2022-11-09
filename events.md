@@ -9,7 +9,7 @@ search_omit: false
 
 <a href="https://www.eventbrite.com/e/412756575027"> "Semesters of Code" </a>
 (November 30, 2022 | 12pm ET / 9am PT / 6pm CET | Online)<br>
-<a href="https://www.eventbrite.com/e/ospo-posse-overview-tickets-449451681077"> "OSPO++ POSSE Overview" </a>
+<a href="https://www.eventbrite.com/e/ospo-teaching-open-source-overview-tickets-449451681077"> "OSPO++ TeachingOpenSource Overview" </a>
 (January 19, 2023 | 12pm ET / 9am PT / 6pm CET | Online)<br>
 
 ## Prior Events:
